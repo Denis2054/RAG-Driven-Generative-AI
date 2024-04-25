@@ -1,6 +1,6 @@
 # RAG-driven Generative AI
 by Denis Rothman <br><br>
-<img src="https://github.com/Denis2054/Transformers_3rd_Edition/blob/main/Transformers_3rd_Edition.jpg?raw=tru" alt="drawing" width="400"/>
+<img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" width="400"/>
 
 Last updated: March 29, 2024  
 Look for the  🐬 for bonus notebooks! 
