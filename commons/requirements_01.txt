@@ -1,5 +1,5 @@
 deeplake==3.6.19
-openai==0.27.8
+openai==0.28.1 # upgraded from 0.27.8 for generation
 tiktoken==0.4.0
 transformers==4.32.0
 torch==2.2.1  # Upgraded to match dependencies
