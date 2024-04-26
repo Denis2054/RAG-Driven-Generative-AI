@@ -1,6 +1,6 @@
 # RAG-driven Generative AI
 by Denis Rothman <br><br>
-<img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" width="400"/>
+<img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" width="600"/>
 
 Last updated: April 26, 2024  
 
