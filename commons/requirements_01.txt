@@ -15,3 +15,4 @@ neural_compressor==2.2.1
 onnx==1.14.1
 pandas==2.0.3
 scipy==1.11.2
+beautifulsoup4==4.12.3
