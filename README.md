@@ -12,6 +12,8 @@ You can run the notebooks directly from below table:
 **Part I The RAG Framework**
  **Chapter 1: Why Retrieval Augmented Generation(RAG)?**
 | <ul><li>RAG_Overview.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb)  |
+ **Chapter 2: RAG Embeddings Vector Stores with Activeloop and OpenAI**
+| <ul><li>1_Data_collection_preparation.ipynb</li><li>2_Embeddings_vector_store.ipynb</li><li>3-Augmented_Generation.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb) |
  **Chapter 5: Boosting RAG Performance with Expert Human Feedback**
 | <ul><li>Adaptive_RAG.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter05/Adaptive_RAG.ipynb) |
 
