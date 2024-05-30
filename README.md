@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" height='400' width="700"/>
 
-Last updated: May 28, 2024  
+Last updated: May 30, 2024  
 
 ### Platforms
 You can run the notebooks directly from below table:
@@ -18,6 +18,8 @@ You can run the notebooks directly from below table:
 | <ul><li>3_Augmented_Generation.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/3_Augmented_Generation.ipynb)  |
  **Chapter 3: Indexed-base Search with LlamaIndex**
 | <ul><li>Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter03/Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb) |
+ **Chapter 4: Multimodal Modular RAG for Drone Technology**
+| <ul><li>Multimodal_Modular_RAG_Drones.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter04/Multimodal_Modular_RAG_Drones.ipynb)  |
  **Chapter 5: Boosting RAG Performance with Expert Human Feedback**
 | <ul><li>Adaptive_RAG.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter05/Adaptive_RAG.ipynb) |
 
