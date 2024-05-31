@@ -2,10 +2,10 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" height='400' width="700"/>
 
-Last updated: May 30, 2024  
+Last updated: May 31, 2024  
 
 ### Platforms
-You can run the notebooks directly from below table:
+You can run the notebooks directly from the table below:
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
 | | | | | |
