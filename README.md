@@ -32,6 +32,7 @@ You can run the notebooks directly from the table below:
 | <ul><li>Fine_tuning_OpenAI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter09/Fine_tuning_OpenAI.ipynb)|
  **Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI(pending)**
 | <ul><li>Video_dataset_visualization.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Video_dataset_visualization.ipynb)  |
+| <ul><li>Pipeline_1_The_Generator_and_the_Commentator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_1_The_Generator_and_the_Commentator.ipynb)  |
 | <ul><li>Pipeline_2_The_Vector_Store_Administrator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_2_The_Vector_Store_Administrator.ipynb)  |
 | <ul><li>Pipeline_3_RAG_Generative_AI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_3_RAG_Generative_AI.ipynb)  |
 ## Get to Know the Author
