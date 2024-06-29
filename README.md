@@ -30,11 +30,11 @@ You can run the notebooks directly from the table below:
 | <ul><li>Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter08/Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb)|
  **Chapter 9, Empowering AI Models: Fine-Tuning RAG Data and Human Feedback**
 | <ul><li>Fine_tuning_OpenAI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter09/Fine_tuning_OpenAI.ipynb)|
- **Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI(pending)**
+ **Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI**
 | <ul><li>Video_dataset_visualization.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Video_dataset_visualization.ipynb)  |
 | <ul><li>Pipeline_1_The_Generator_and_the_Commentator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_1_The_Generator_and_the_Commentator.ipynb)  |
 | <ul><li>Pipeline_2_The_Vector_Store_Administrator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_2_The_Vector_Store_Administrator.ipynb)  |
-| <ul><li>Pipeline_3_RAG_Generative_AI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_3_RAG_Generative_AI.ipynb)  |
+| <ul><li>Pipeline_3_The_Video_Expert.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_3_The_Video_Expert.ipynb)  |
 ## Get to Know the Author
 Denis Rothman graduated from Sorbonne University and Paris Diderot University, designing one of the first patented encoding and embedding systems. He authored one of the first patented AI cognitive robots and bots. He began his career delivering Natural Language Processing (NLP) chatbots for Moët et Chandon and as an AI tactical defense optimizer for Airbus (formerly Aerospatiale).
 Denis then authored an AI resource optimizer for IBM and luxury brands, leading to an Advanced Planning and Scheduling (APS) solution used worldwide.
