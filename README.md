@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" height='400' width="700"/>
 
-Last updated: June 23, 2024  
+Last updated: June 29, 2024  
 
 ### Platforms
 You can run the notebooks directly from the table below:
@@ -30,7 +30,7 @@ You can run the notebooks directly from the table below:
 | <ul><li>Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter08/Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb)|
  **Chapter 9, Empowering AI Models: Fine-Tuning RAG Data and Human Feedback**
 | <ul><li>Fine_tuning_OpenAI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter09/Fine_tuning_OpenAI.ipynb)|
- **Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI**
+ **Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI(pending)**
 | <ul><li>Videos_dataset_visualization.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Videos_dataset_visualization.ipynb)  |
 | <ul><li>Pipeline_2_Scaling_a_Pinecone_Index.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_2_Scaling_a_Pinecone_Index.ipynb)  |
 | <ul><li>Pipeline_3_RAG_Generative_AI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_3_RAG_Generative_AI.ipynb)  |
