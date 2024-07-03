@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/rag.png?raw=tru" alt="drawing" height='400' width="700"/>
 
-Last updated: June 29, 2024  
+Last updated: July 3, 2024  
 
 ### Platforms
 You can run the notebooks directly from the table below:
@@ -26,6 +26,8 @@ You can run the notebooks directly from the table below:
 | <ul><li>Pipeline_1_Collecting_and_preparing_the_dataset.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_1_Collecting_and_preparing_the_dataset.ipynb)  |
 | <ul><li>Pipeline_2_Scaling_a_Pinecone_Index.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_2_Scaling_a_Pinecone_Index.ipynb)  |
 | <ul><li>Pipeline_3_RAG_Generative_AI.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter06/Pipeline_3_RAG_Generative_AI.ipynb)  |
+ **Chapter 7,   Building Scalable Knowledge Graph-based RAG ...(title pending)**
+| <ul><li>Tree_2_Graph.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter07/Tree_2_Graph.ipynb)|
  **Chapter 8, Dynamic RAG with Chroma and Hugging Face Llama**
 | <ul><li>Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter08/Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb)|
  **Chapter 9, Empowering AI Models: Fine-Tuning RAG Data and Human Feedback**
