@@ -1,0 +1,865 @@
+Citation. In Wikipedia, The Free Encyclopedia. Pages retrieved from the following Wikipedia contributors on 2024-07-04 15:11:59.874229
+Link 1: 1926 United Kingdom general strike
+Link: 1926 United Kingdom general strike
+https://en.wikipedia.org/wiki/1926_United_Kingdom_general_strike
+Summary: The 1926 General Strike in the United Kingdom was a general strike that lasted nine days, from 4 to 12 May 1926. It was called by the General Council of the Trades Union Congress (TUC) in an unsuccessful attempt to force the British government to act to prevent wage reductions and worsening conditions for 1.2 million locked-out coal miners. Some 1.7 million workers went out, especially in transport and heavy industry. 
+It was a sympathy strike, with many of those who were not miners and not directly affected striking to support the locked-out miners. The government was well prepared, and enlisted middle class volunteers to maintain essential services. There was little violence and the TUC gave up in defeat.
+Link 2: ACE (computer)
+Link: ACE (computer)
+https://en.wikipedia.org/wiki/Automatic_Computing_Engine
+Summary: The Automatic Computing Engine (ACE) was a British early electronic serial stored-program computer design by Alan Turing. Turing completed the ambitious design in late 1945, having had experience in the years prior with the secret Colossus computer at Bletchley Park. 
+The ACE was not built, but a smaller version, the Pilot ACE, was constructed at the National Physical Laboratory and became operational in 1950. A larger implementation of the ACE design was the MOSAIC computer which became operational in 1955. ACE also led to the Bendix G-15 and other computers.
+Link 3: Abraham Wald
+Link: Abraham Wald
+https://en.wikipedia.org/wiki/Abraham_Wald
+Summary: Abraham Wald (; Hungarian: Wald Ábrahám, Yiddish: אברהם וואַלד; (1902-10-31)31 October 1902 – (1950-12-13)13 December 1950) was a Jewish Hungarian mathematician who contributed to decision theory, geometry and econometrics, and founded the field of sequential analysis. One of his well-known statistical works was written during World War II on how to minimize the damage to bomber aircraft and took into account the survivorship bias in his calculations. He spent his research career at Columbia University. He was the grandson of Rabbi Moshe Shmuel Glasner.
+Link 4: Abram Besicovitch
+Link: Abram Besicovitch
+https://en.wikipedia.org/wiki/Abram_Besicovitch
+Summary: Abram Samoilovitch Besicovitch (or Besikovitch; Russian: Абра́м Само́йлович Безико́вич; 23 January 1891 – 2 November 1970) was a Russian mathematician, who worked mainly in England. He was born in Berdyansk on the Sea of Azov (now in Ukraine) to a Karaite Jewish family.
+Link 5: Action This Day (memo)
+Link: Action This Day (memo)
+https://en.wikipedia.org/wiki/Action_This_Day_(memo)
+Summary: Action This Day was a 1941 memorandum sent to Winston Churchill personally, to advise Churchill that the Bletchley Park (BP) codebreaking establishment was short of staff in some critical areas. Their requirements were small, but as a small (and secret) organisation their management did not have priority. Four senior heads of sections ("Huts") and their deputies wrote to Churchill, who had visited "BP" on 6 September 1941, where he made a speech saying he appreciated their work.
+The memo was signed by Alan Turing and Hugh Alexander (head and deputy head of Hut 8); and  Gordon Welchman and Stuart Milner-Barry (head and deputy head of Hut 6).  The four were known as the "Wicked Uncles".
+Link 6: Ada Lovelace
+Link: Ada Lovelace
+https://en.wikipedia.org/wiki/Ada_Lovelace
+Summary: Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation.
+Ada Byron was the only legitimate child of poet Lord Byron and reformer Anne Isabella Milbanke. All Lovelace's half-siblings, Lord Byron's other children, were born out of wedlock to other women. Byron separated from his wife a month after Ada was born and left England forever.  He died in Greece when Ada was eight. Her mother was anxious about her upbringing and promoted Ada's interest in mathematics and logic in an effort to prevent her from developing her father's perceived insanity. Despite this, Ada remained interested in him, naming her two sons Byron and Gordon. Upon her death, she was buried next to him at her request. Although often ill in her childhood, Ada pursued her studies assiduously. She married William King in 1835. King was made Earl of Lovelace in 1838, Ada thereby becoming Countess of Lovelace.
+Her educational and social exploits brought her into contact with scientists such as Andrew Crosse, Charles Babbage, Sir David Brewster, Charles Wheatstone and Michael Faraday, and the author Charles Dickens, contacts which she used to further her education. Ada described her approach as "poetical science" and herself as an "Analyst (& Metaphysician)".
+When she was eighteen, her mathematical talents led her to a long working relationship and friendship with fellow British mathematician Charles Babbage, who is known as "the father of computers". She was in particular interested in Babbage's work on the Analytical Engine. Lovelace first met him on 5 June 1833, when she and her mother attended one of Charles Babbage's Saturday night soirées with their mutual friend, and Ada's private tutor, Mary Somerville.
+Between 1842 and 1843, Ada translated an article by the military engineer Luigi Menabrea (later Prime Minister of Italy) about the Analytical Engine, supplementing it with an elaborate set of seven notes, simply called "Notes".
+Lovelace's notes are important in the early history of computers, especially since the seventh one contained what many consider to be the first computer program—that is, an algorithm designed to be carried out by a machine. Other historians reject this perspective and point out that Babbage's personal notes from 1837 to 1840 contain the first programs for the engine. She also developed a vision of the capability of computers to go beyond mere calculating or number-crunching, while many others, including Babbage himself, focused only on those capabilities. Her mindset of "poetical science" led her to ask questions about the Analytical Engine (as shown in her notes), examining how individuals and society relate to technology as a collaborative tool. The coding language Ada is named for her.
+Link 7: Adele Goldstine
+Link: Adele Goldstine
+https://en.wikipedia.org/wiki/Adele_Goldstine
+Summary: Adele Goldstine (née Katz; December 21, 1920 – November 1964) was an American mathematician and computer programmer. She wrote the manual for the first electronic digital computer, ENIAC. Through her work programming the computer, she was also an instrumental player in converting the ENIAC from a computer that needed to be reprogrammed each time it was used to one that was able to perform a set of fifty stored instructions.
+Link 8: Adolf Hitler
+Link: Adolf Hitler
+https://en.wikipedia.org/wiki/Adolf_Hitler
+Summary: Adolf Hitler (20 April 1889 – 30 April 1945) was an Austrian-born German politician who was the dictator of Nazi Germany from 1933 until his suicide in 1945. He rose to power as the leader of the Nazi Party, becoming the chancellor in 1933 and then taking the title of Führer und Reichskanzler in 1934. His invasion of Poland on 1 September 1939 marks the start of the Second World War. He was closely involved in military operations throughout the war and was central to the perpetration of the Holocaust: the genocide of about six million Jews and millions of other victims.
+Hitler was born in Braunau am Inn in Austria-Hungary and was raised near Linz. He lived in Vienna later in the first decade of the 1900s before moving to Germany in 1913. He was decorated during his service in the German Army in World War I. In 1919, he joined the German Workers' Party (DAP), the precursor of the Nazi Party, and in 1921 was appointed leader of the Nazi Party. In 1923, he attempted to seize governmental power in a failed coup in Munich and was sentenced to five years in prison, serving just over a year of his sentence. While there, he dictated the first volume of his autobiography and political manifesto Mein Kampf ("My Struggle"). After his early release in 1924, Hitler gained popular support by attacking the Treaty of Versailles and promoting pan-Germanism, antisemitism and anti-communism with charismatic oratory and Nazi propaganda. He frequently denounced communism as being part of an international Jewish conspiracy.
+By November 1932, the Nazi Party held the most seats in the Reichstag but did not have a majority. No political parties were able to form a majority coalition in support of a candidate for chancellor. Former chancellor Franz von Papen and other conservative leaders convinced President Paul von Hindenburg to appoint Hitler as chancellor on 30 January 1933. Shortly thereafter, the Reichstag passed the Enabling Act of 1933 which began the process of transforming the Weimar Republic into Nazi Germany, a one-party dictatorship based on the totalitarian and autocratic ideology of Nazism. Upon Hindenburg's death on 2 August 1934, Hitler succeeded him, becoming simultaneously the head of state and government with absolute power. Domestically, Hitler implemented numerous racist policies and sought to deport or kill German Jews. His first six years in power resulted in rapid economic recovery from the Great Depression, the abrogation of restrictions imposed on Germany after World War I, and the annexation of territories inhabited by millions of ethnic Germans, which initially gave him significant popular support.
+One of Hitler's key goals was Lebensraum (lit. 'living space') for the German people in Eastern Europe, and his aggressive, expansionist foreign policy is considered the primary cause of World War II in Europe. He directed large-scale rearmament and, on 1 September 1939, invaded Poland, resulting in Britain and France declaring war on Germany. In June 1941, Hitler ordered an invasion of the Soviet Union. In December 1941, he declared war on the United States. By the end of 1941, German forces and the European Axis powers occupied most of Europe and North Africa. These gains were gradually reversed after 1941, and in 1945 the Allied armies defeated the German army. On 29 April 1945, he married his long-term partner, Eva Braun, in the Führerbunker in Berlin. The couple committed suicide the following day to avoid capture by the Soviet Red Army. In accordance with Hitler's wishes, their corpses were burned.
+The historian and biographer Ian Kershaw describes Hitler as "the embodiment of modern political evil". Under Hitler's leadership and racist ideology, the Nazi regime was responsible for the genocide of an estimated six million Jews and millions of other victims, whom he and his followers deemed Untermenschen (subhumans) or socially undesirable. Hitler and the Nazi regime were also responsible for the deliberate killing of an estimated 19.3 million civilians and prisoners of war. In addition, 28.7 million soldiers and civilians died as a result of military action in the European theatre. The number of civilians killed during World War II was unprecedented in warfare, and the casualties constitute the deadliest conflict in history.
+Link 9: Akio Morita
+Link: Akio Morita
+https://en.wikipedia.org/wiki/Akio_Morita
+Summary: Akio Morita (盛田 昭夫, Morita Akio, January 26, 1921 – October 3, 1999) was a Japanese entrepreneur and co-founder of Sony along with Masaru Ibuka.
+Link 10: Alan Turing: The Enigma
+Link: Alan Turing: The Enigma
+https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma
+Summary: Alan Turing: The Enigma (1983) is a biography of the British mathematician, codebreaker, and early computer scientist, Alan Turing (1912–1954) by Andrew Hodges. The book covers Alan Turing's life and work. The 2014 film The Imitation Game is loosely based on the book, with dramatization.
+Link 11: Alan Turing law
+Link: Alan Turing law
+https://en.wikipedia.org/wiki/Alan_Turing_law
+Summary: The "Alan Turing law" is an informal term for the law in the United Kingdom, contained in the Policing and Crime Act 2017, which serves as an amnesty law to pardon men who were cautioned or convicted under historical legislation that outlawed homosexual acts. The provision is named after Alan Turing, the World War II codebreaker and computing pioneer, who was convicted of gross indecency in 1952. Turing received a royal pardon posthumously in 2013. The law applies in England and Wales.
+Several proposals had been put forward for an Alan Turing law, and introducing such a law has been government policy since 2015. To implement the pardon, the British Government announced on 20 October 2016 that it would support an amendment to the Policing and Crime Act that would provide a posthumous pardon, also providing an automatic formal pardon for living people who had had such offences removed from their record. A rival bill to implement the Alan Turing law, in second reading at the time of the government announcement, was filibustered. The bill received royal assent on 31 January 2017, and the pardon was implemented that same day. The law provides pardons only for men convicted of acts that are no longer offences; those convicted under the same laws of offences that were still crimes on the date the law went into effect, such as cottaging, underage sex, or rape, were not pardoned.
+Manchester Withington MP John Leech, often described as 'the architect' of the Alan Turing Law, led a high-profile campaign to pardon Turing and submitted several bills to parliament, leading to the eventual posthumous pardon.
+Link 12: Albert Einstein
+Link: Albert Einstein
+https://en.wikipedia.org/wiki/Albert_Einstein
+Summary: Albert Einstein ( EYEN-styne; German: [ˈalbɛɐt ˈʔaɪnʃtaɪn] ; 14 March 1879 – 18 April 1955) was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. Best known for developing the theory of relativity, Einstein also made important contributions to quantum mechanics, and was thus a central figure in the revolutionary reshaping of the scientific understanding of nature that modern physics accomplished in the first decades of the twentieth century. His mass–energy equivalence formula E = mc2, which arises from relativity theory, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics "for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect", a pivotal step in the development of quantum theory. His work is also known for its influence on the philosophy of science.
+Born in the German Empire, Einstein moved to Switzerland in 1895, forsaking his German citizenship (as a subject of the Kingdom of Württemberg) the following year. In 1897, at the age of seventeen, he enrolled in the mathematics and physics teaching diploma program at the Swiss federal polytechnic school in Zürich, graduating in 1900. In 1901, he acquired Swiss citizenship, which he kept for the rest of his life. In 1903, he secured a permanent position at the Swiss Patent Office in Bern. In 1905, he submitted a successful PhD dissertation to the University of Zurich. In 1914, he moved to Berlin in order to join the Prussian Academy of Sciences and the Humboldt University of Berlin. In 1917, he became director of the Kaiser Wilhelm Institute for Physics; he also became a German citizen again, this time as a subject of the Kingdom of Prussia.
+In 1933, while he was visiting the United States, Adolf Hitler came to power in Germany. Horrified by the Nazi "war of extermination" against his fellow Jews, Einstein decided to remain in the US, and was granted American citizenship in 1940. On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program and recommending that the US begin similar research. Einstein supported the Allies but generally viewed the idea of nuclear weapons with great dismay.
+In 1905, sometimes described as his annus mirabilis (miracle year), Einstein published four groundbreaking papers. These outlined a theory of the photoelectric effect, explained Brownian motion, introduced his special theory of relativity—a theory which addressed the inability of classical mechanics to account satisfactorily for the behavior of the electromagnetic field—and demonstrated that if the special theory is correct, mass and energy are equivalent to each other. In 1915, he proposed a general theory of relativity that extended his system of mechanics to incorporate gravitation. A cosmological paper that he published the following year laid out the implications of general relativity for the modeling of the structure and evolution of the universe as a whole. The middle part of his career also saw him making important contributions to statistical mechanics and quantum theory. Especially notable was his work on the quantum physics of radiation, in which light consists of particles, subsequently called photons. With the Indian physicist Satyendra Nath Bose, he laid the groundwork for Bose-Einstein statistics. For much of the last phase of his academic life, Einstein worked on two endeavors that proved ultimately unsuccessful. First, he advocated against quantum theory's introduction of fundamental randomness into science's picture of the world, objecting that "God does not play dice". Second, he attempted to devise a unified field theory by generalizing his geometric theory of gravitation to include electromagnetism too. As a result, he became increasingly isolated from the mainstream of modern physics. 
+In a 1999 poll of 130 leading physicists worldwide by the British journal Physics World, Einstein was ranked the greatest physicist of all time. His intellectual achievements and originality have made the word Einstein broadly synonymous with genius.
+Link 13: Albert Neuberger
+Link: Albert Neuberger
+https://en.wikipedia.org/wiki/Albert_Neuberger
+Summary: Albert Neuberger  (15 April 1908 – 14 August 1996) was a British Professor of Chemical Pathology, St Mary's Hospital, 1955–1973, and later emeritus professor.
+Link 14: Alexander Fleming
+Link: Alexander Fleming
+https://en.wikipedia.org/wiki/Alexander_Fleming
+Summary: Sir Alexander Fleming  (6 August 1881 – 11 March 1955) was a Scottish physician and microbiologist, best known for discovering the world's first broadly effective antibiotic substance, which he named penicillin. His discovery in 1928 of what was later named benzylpenicillin (or penicillin G) from the mould Penicillium rubens has been described as the "single greatest victory ever achieved over disease". For this discovery, he shared the Nobel Prize in Physiology or Medicine in 1945 with Howard Florey and Ernst Boris Chain.
+He also discovered the enzyme lysozyme from his nasal discharge in 1922, and along with it a bacterium he named Micrococcus lysodeikticus, later renamed Micrococcus luteus.
+Fleming was knighted for his scientific achievements in 1944. In 1999, he was named in Time magazine's list of the 100 Most Important People of the 20th century. In 2002, he was chosen in the BBC's television poll for determining the 100 Greatest Britons, and in 2009, he was also voted third "greatest Scot" in an opinion poll conducted by STV, behind only Robert Burns and William Wallace.
+Link 15: Alfred D. Chandler Jr.
+Link: Alfred D. Chandler Jr.
+https://en.wikipedia.org/wiki/Alfred_D._Chandler_Jr.
+Summary: Alfred DuPont Chandler Jr. (September 15, 1918 – May 9, 2007) was a professor of business history at Harvard Business School and Johns Hopkins University, who wrote extensively about the scale and the management structures of modern corporations. His works redefined business and economic history of industrialization. He received the Pulitzer Prize for History for his work, The Visible Hand: The Managerial Revolution in American Business (1977). He was a member of both the American Academy of Arts and Sciences and the American Philosophical Society. He has been called "the doyen of American business historians".
+Link 16: Alfred Ubbelohde
+Link: Alfred Ubbelohde
+https://en.wikipedia.org/wiki/Alfred_Ubbelohde
+Summary: Alfred René Jean Paul Ubbelohde  FRS (1907–1988) was a Belgian-born English physical chemist.
+Link 17: Algorithm
+Link: Algorithm
+https://en.wikipedia.org/wiki/Algorithm
+Summary: In mathematics and computer science, an algorithm ( ) is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Algorithms are used as specifications for performing calculations and data processing. More advanced algorithms can use conditionals to divert the code execution through various routes (referred to as automated decision-making) and deduce valid inferences (referred to as automated reasoning), achieving automation eventually. Using human characteristics as descriptors of machines in metaphorical ways was already practiced by Alan Turing with terms such as "memory", "search" and "stimulus".
+In contrast, a heuristic is an approach to problem-solving that may not be fully specified or may not guarantee correct or optimal results, especially in problem domains where there is no well-defined correct or optimal result.  For example, social media recommender systems rely on heuristics in such a way that, although widely characterized as "algorithms" in 21st-century popular media, cannot deliver correct results due to the nature of the problem.
+As an effective method, an algorithm can be expressed within a finite amount of space and time and in a well-defined formal language for calculating a function. Starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well-defined successive states, eventually producing "output" and terminating at a final ending state. The transition from one state to the next is not necessarily deterministic; some algorithms, known as randomized algorithms, incorporate random input.
+Link 18: Alick Glennie
+Link: Alick Glennie
+https://en.wikipedia.org/wiki/Alick_Glennie
+Summary: Alick Edwards Glennie (1925–2003) was a British computer scientist, most famous for having developed Autocode, which influential computer scientist Donald Knuth regarded as the first ever computer compiler.
+Glennie worked with Alan Turing on several projects, including the Manchester Mark 1.
+Glennie subsequently worked at Atomic Weapons Research Establishment (AWRE) where he was responsible in the early 1960s in developing FORTRAN compilers for several large computers inc. IBM 709, IBM 7090, IBM 7030 ("Stretch") and also ICT Atlas.  He pioneered a method of developing the compiler for the Atlas on the IBM 7030 in advance of delivery of the Atlas, using an interpretive technique.
+Link 19: Alonzo Church
+Link: Alonzo Church
+https://en.wikipedia.org/wiki/Alonzo_Church
+Summary: Alonzo Church (June 14, 1903 – August 11, 1995) was an American mathematician, computer scientist, logician, and philosopher who made major contributions to mathematical logic and the foundations of theoretical computer science. He is best known for the lambda calculus, the Church–Turing thesis, proving the unsolvability of the Entscheidungsproblem ("decision problem"), the Frege–Church ontology, and the Church–Rosser theorem. Alongside his doctoral student Alan Turing, Church is considered one of the founders of computer science.
+Link 20: Amadeo Giannini
+Link: Amadeo Giannini
+https://en.wikipedia.org/wiki/Amadeo_Giannini
+Summary: Amadeo Pietro Giannini (Italian pronunciation: [amaˈdɛːo ˈpjɛːtro dʒanˈniːni]), also known as Amadeo Peter Giannini or A. P. Giannini (May 6, 1870 – June 3, 1949) was an American banker who founded the Bank of Italy, which eventually became Bank of America. Giannini is credited as the inventor of many modern banking practices. Most notably, Giannini was one of the first bankers to offer banking services to middle-class Americans, mainly Italian immigrants, rather than only the upper class. He also pioneered the holding company structure and established one of the first modern trans-national institutions.
+Link 21: American Journal of Mathematics
+Link: American Journal of Mathematics
+https://en.wikipedia.org/wiki/American_Journal_of_Mathematics
+Summary: The American Journal of Mathematics is a bimonthly mathematics journal published by the Johns Hopkins University Press.
+Link 22: American Physical Society
+Link: American Physical Society
+https://en.wikipedia.org/wiki/American_Physical_Society
+Summary: The American Physical Society (APS) is a not-for-profit membership organization of professionals in physics and related disciplines, comprising nearly fifty divisions, sections, and other units. Its mission is the advancement and diffusion of knowledge of physics. It publishes more than a dozen scientific journals, including the prestigious Physical Review and Physical Review Letters, and organizes more than twenty science meetings each year. It is a member society of the American Institute of Physics. Since January 2021, it is led by chief executive officer Jonathan Bagger.
+Link 23: Amnesty law
+Link: Amnesty law
+https://en.wikipedia.org/wiki/Amnesty_law
+Summary: An amnesty law is any legislative, constitutional or executive arrangement that retroactively exempts a select group of people, usually military leaders and government leaders, from criminal liability for the crimes that they committed. More specifically, in the 'age of accountability', amnesty laws have come to be considered as granting impunity for the violation of human rights, including institutional measures that preclude the prosecution for such crimes and reprieve those crimes already convicted, avoiding any form of accountability.
+Link 24: Andrei Sakharov
+Link: Andrei Sakharov
+https://en.wikipedia.org/wiki/Andrei_Sakharov
+Summary: Andrei Dmitrievich Sakharov (Russian: Андрей Дмитриевич Сахаров; 21 May 1921 – 14 December 1989) was a Soviet physicist and a Nobel Peace Prize laureate, which he was awarded in 1975 for emphasizing human rights around the world.
+Although he spent his career in physics in the Soviet program of nuclear weapons, overseeing the development of thermonuclear weapons, Sakharov also did fundamental work in understanding particle physics, magnetism, and physical cosmology. Sakharov is mostly known for his political activism for individual freedom, human rights, civil liberties and reforms in the Soviet Union, for which he was deemed a dissident and faced persecution from the Soviet establishment.
+In his memory, the Sakharov Prize was established and is awarded annually by the European Parliament for people and organizations dedicated to human rights and freedoms.
+Link 25: Andrew Hodges
+Link: Andrew Hodges
+https://en.wikipedia.org/wiki/Andrew_Hodges
+Summary: Andrew Philip Hodges ( HOJ-iz; born 1949) is a British mathematician, author and emeritus senior research fellow at Wadham College, Oxford.
+Link 26: Andrew Koenig (programmer)
+Link: Andrew Koenig (programmer)
+https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer)
+Summary: Andrew Richard Koenig (IPA: [ˈkøːnɪç]; born June 1952) is a former AT&T and Bell Labs researcher and programmer. He is the author of C Traps and Pitfalls and co-author (with Barbara Moo) of Accelerated C++ and Ruminations on C++, and his name is associated with argument-dependent name lookup, also known as "Koenig lookup", though he is not its inventor. He served as the Project Editor of the ISO/ANSI standards committee for C++, and has authored over 150 papers on C++.
+Link 27: Anglo-Irish people
+Link: Anglo-Irish people
+https://en.wikipedia.org/wiki/Anglo-Irish_people
+Summary: Anglo-Irish people (Irish: Angla-Éireannach) denotes an ethnic, social and religious grouping who are mostly the descendants and successors of the English Protestant Ascendancy in Ireland. They mostly belong to the Anglican Church of Ireland, which was the established church of Ireland until 1871, or to a lesser extent one of the English dissenting churches, such as the Methodist church, though some were Roman Catholics. They often defined themselves as simply "British", and less frequently "Anglo-Irish", "Irish" or "English". Many became eminent as administrators in the British Empire and as senior army and naval officers since the Kingdom of England and Great Britain were in a real union with the Kingdom of Ireland for over a century, before politically uniting into the United Kingdom of Great Britain and Ireland in 1801.
+The term is not usually applied to Presbyterians in the province of Ulster, whose ancestry is mostly Lowland Scottish, rather than English or Irish, and who are sometimes identified as Ulster-Scots or Orangemen. The Anglo-Irish hold a wide range of political views, with some being outspoken Irish Nationalists, but most overall being Unionists. And while most of the Anglo-Irish originated in the English diaspora in Ireland, others were descended from families of the old Gaelic nobility of Ireland.
+Link 28: Anne Frank
+Link: Anne Frank
+https://en.wikipedia.org/wiki/Anne_Frank
+Summary: Annelies Marie "Anne" Frank (German: [ˈanə(liːs maˈʁiː) ˈfʁaŋk] , Dutch: [ˌɑnəˈlis maːˈri ˈfrɑŋk, ˈɑnə ˈfrɑŋk] ; 12 June 1929 – c. February or March 1945) was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands. A celebrated diarist, Frank described everyday life from her family's hiding place in an Amsterdam attic. She gained fame posthumously and became one of the most-discussed Jewish victims of the Holocaust with the 1947 publication of The Diary of a Young Girl (originally Het Achterhuis in Dutch, lit. 'the back house'; English: The Secret Annex), which documents her life in hiding from 1942 to 1944. It is one of the world's best-known books and has been the basis for several plays and films.
+Frank was born in Frankfurt, Germany, in 1929. In 1934, when she was four-and-a-half, Frank and her family moved to Amsterdam in the Netherlands after Adolf Hitler and the Nazi Party gained control over Germany. By May 1940, the family was trapped in Amsterdam by the German occupation of the Netherlands. Frank lost her German citizenship in 1941 and became stateless. Despite spending most of her life in the Netherlands and being a de facto Dutch national, she never officially became a Dutch citizen. As persecutions of the Jewish population increased in July 1942, the family went into hiding in concealed rooms behind a bookcase in the building where Frank's father, Otto Frank, worked. The hiding place is notably referred to as the "secret annex". Until the family's arrest by the Gestapo on 4 August 1944, Frank kept and regularly wrote in a diary she had received as a birthday present in 1942.
+Following their arrest, the Franks were transported to concentration camps. On 1 November 1944, Anne Frank and her sister, Margot, were transferred from Auschwitz to Bergen-Belsen concentration camp, where they died (presumably of typhus) a few months later. They were estimated by the Red Cross to have died in March, with Dutch authorities setting 31 March as the official date. Later research has alternatively suggested that they may have died in February or early March.
+Otto, the only Holocaust survivor in the Frank family, returned to Amsterdam after World War II to find that Anne's diary had been saved by his female secretaries, Miep Gies and Bep Voskuijl. Moved by his daughter's repeated wishes to be an author, Otto Frank published her diary in 1947. It was translated from its original Dutch version and first published in English in 1952 as The Diary of a Young Girl, and has since been translated into over 70 languages.
+Link 29: Anthony Cave Brown
+Link: Anthony Cave Brown
+https://en.wikipedia.org/wiki/Anthony_Cave_Brown
+Summary: Anthony Cave Brown (21 March 1929 – 14 July 2006) was a British journalist, espionage non-fiction writer, and historian.
+Link 30: Aretha Franklin
+Link: Aretha Franklin
+https://en.wikipedia.org/wiki/Aretha_Franklin
+Summary: Aretha Louise Franklin ( ə-REE-thə; March 25, 1942 – August 16, 2018) was an American singer, songwriter and pianist. Honored as the "Queen of Soul", Rolling Stone magazine twice named her as the greatest singer of all time.
+As a child, Franklin was noticed for her gospel singing at New Bethel Baptist Church in Detroit, Michigan, where her father C. L. Franklin was a minister. At the age of 18, she was signed as a recording artist for Columbia Records. While her career did not immediately flourish, Franklin found acclaim and commercial success once she signed with Atlantic Records in 1966. She recorded albums such as I Never Loved a Man the Way I Love You (1967), Lady Soul (1968), Spirit in the Dark (1970), Young, Gifted and Black (1972), Amazing Grace (1972), and Sparkle (1976), before experiencing problems with the record company. Franklin left Atlantic in 1979 and signed with Arista Records. Her success continued with the albums Jump to It (1982), Who's Zoomin' Who? (1985), Aretha (1986) and A Rose Is Still a Rose (1998).
+Franklin is one of the best-selling music artists, with over 75 million records sold worldwide.
+She recorded 112 charted singles on the US Billboard charts, including 73 Hot 100 entries, 17 top-ten pop singles, 96 R&B entries and 20 number-one R&B singles. Her best-known hits include "I Never Loved a Man (The Way I Love You)", "Respect", "(You Make Me Feel Like) A Natural Woman", "Chain of Fools", "Think", "I Say a Little Prayer", "Ain't No Way", "Call Me", "Don't Play That Song (You Lied)", "Spanish Harlem", "Rock Steady", "Day Dreaming", "Until You Come Back to Me (That's What I'm Gonna Do)", "Something He Can Feel", "Jump to It", "Freeway of Love", "Who's Zoomin' Who", "I Knew You Were Waiting (For Me)" (a duet with George Michael) and "A Rose Is Still a Rose". Aside from music, she appeared in the 1980 film The Blues Brothers.
+Franklin received numerous honors throughout her career. She  won 18 Grammy Awards (out of 44 nominations), including the first eight awards given for Best Female R&B Vocal Performance (1968–1975), a Grammy Awards Living Legend honor and Lifetime Achievement Award. She was also awarded the National Medal of Arts and the Presidential Medal of Freedom. In 1987, she became the first female artist to be inducted into the Rock and Roll Hall of Fame. Her other inductions include the UK Music Hall of Fame in 2005, the Gospel Music Hall of Fame in 2012, and posthumously the National Women's Hall of Fame in 2020. In 2019, the Pulitzer Prize jury awarded her a posthumous special citation "for her indelible contribution to American music and culture for more than five decades".
+Link 31: Artificial intelligence
+Link: Artificial intelligence
+https://en.wikipedia.org/wiki/Artificial_intelligence
+Summary: Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.
+Some high-profile applications of AI include advanced web search engines (e.g., Google Search); recommendation systems (used by YouTube, Amazon, and Netflix); interacting via human speech (e.g., Google Assistant, Siri, and Alexa); autonomous vehicles (e.g., Waymo); generative and creative tools (e.g., ChatGPT, Apple Intelligence, and AI art); and superhuman play and analysis in strategy games (e.g., chess and Go). However, many AI applications are not perceived as AI: "A lot of cutting edge AI has filtered into general applications, often without being called AI because once something becomes useful enough and common enough it's not labeled AI anymore."
+Alan Turing was the first person to conduct substantial research in the field that he called machine intelligence. Artificial intelligence was founded as an academic discipline in 1956, by those now considered the founding fathers of AI, John McCarthy, Marvin Minksy, Nathaniel Rochester, and Claude Shannon. The field went through multiple cycles of optimism, followed by periods of disappointment and loss of funding, known as AI winter. Funding and interest vastly increased after 2012 when deep learning surpassed all previous AI techniques, and after 2017 with the transformer architecture. This led to the AI boom of the early 2020s, with companies, universities, and laboratories overwhelmingly based in the United States pioneering significant advances in artificial intelligence.
+The growing use of artificial intelligence in the 21st century is influencing a societal and economic shift towards increased automation, data-driven decision-making, and the integration of AI systems into various economic sectors and areas of life, impacting job markets, healthcare, government, industry, education, propaganda, and disinformation. This raises questions about the long-term effects, ethical implications, and risks of AI, prompting discussions about regulatory policies to ensure the safety and benefits of the technology. 
+The various subfields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception, and support for robotics. General intelligence—the ability to complete any task performable by a human on an at least equal level—is among the field's long-term goals.
+To reach these goals, AI researchers have adapted and integrated a wide range of techniques, including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, operations research, and economics. AI also draws upon psychology, linguistics, philosophy, neuroscience, and other fields.
+Link 32: Asa Briggs
+Link: Asa Briggs
+https://en.wikipedia.org/wiki/Asa_Briggs
+Summary: Asa Briggs, Baron Briggs (7 May 1921 – 15 March 2016) was an English historian. He was a leading specialist on the Victorian era, and the foremost historian of broadcasting in Britain. Briggs achieved international recognition during his long and prolific career for examining various aspects of modern British history. He became a life peer in 1976.
+Link 33: Astronomer Royal
+Link: Astronomer Royal
+https://en.wikipedia.org/wiki/Astronomer_Royal
+Summary: Astronomer Royal is a senior post in the Royal Households of the United Kingdom. There are two officers, the senior being the astronomer royal dating from 22 June 1675; the junior is the astronomer royal for Scotland dating from 1834. The Astronomer Royal works to make observations to improve navigation, cartography, instrument design, and applications of geomagnetism. The position was created with the overall goal of discovering a way to determine longitude at sea when out of sight of land.
+Link 34: Atheism
+Link: Atheism
+https://en.wikipedia.org/wiki/Atheism
+Summary: Atheism, in the broadest sense, is an absence of belief in the existence of deities. Less broadly, atheism is a rejection of the belief that any deities exist. In an even narrower sense, atheism is specifically the position that there are no deities. Atheism is contrasted with theism, which in its most general form is the belief that at least one deity exists.
+Historically, evidence of atheistic viewpoints can be traced back to classical antiquity and early Indian philosophy. In the Western world, atheism declined as Christianity gained prominence. The 16th century and the Age of Enlightenment marked the resurgence of atheistic thought in Europe. Atheism achieved a significant position in the 20th century with legislation protecting freedom of thought. According to 2003 estimates, there are at least 500 million atheists in the world.
+Atheist organizations have defended the autonomy of science, secular ethics and secularism. Arguments for atheism range from philosophical to social and historical approaches. Rationales for not believing in deities include the lack of evidence, the problem of evil, the argument from inconsistent revelations, the rejection of concepts that cannot be falsified, and the argument from nonbelief. Nonbelievers contend that atheism is a more parsimonious position than theism and that everyone is born without beliefs in deities; therefore, they argue that the burden of proof lies not on the atheist to disprove the existence of gods but on the theist to provide a rationale for theism.
+Link 35: Autocatalytic
+Link: Autocatalytic
+https://en.wikipedia.org/wiki/Autocatalysis
+Summary: In chemistry, a chemical reaction is said to be autocatalytic if one of the reaction products is also a catalyst for the same reaction. Many forms of autocatalysis are recognized.
+A set of chemical reactions can be said to be "collectively autocatalytic" if a number of those reactions produce, as reaction products, catalysts for enough of the other reactions that the entire set of chemical reactions is self-sustaining given an input of energy and food molecules (see autocatalytic set).
+Link 36: Automatic Computing Engine
+Link: Automatic Computing Engine
+https://en.wikipedia.org/wiki/Automatic_Computing_Engine
+Summary: The Automatic Computing Engine (ACE) was a British early electronic serial stored-program computer design by Alan Turing. Turing completed the ambitious design in late 1945, having had experience in the years prior with the secret Colossus computer at Bletchley Park. 
+The ACE was not built, but a smaller version, the Pilot ACE, was constructed at the National Physical Laboratory and became operational in 1950. A larger implementation of the ACE design was the MOSAIC computer which became operational in 1955. ACE also led to the Bendix G-15 and other computers.
+Link 37: Axis powers
+Link: Axis powers
+https://en.wikipedia.org/wiki/Axis_powers
+Summary: The Axis powers, originally called the Rome–Berlin Axis and also Rome–Berlin–Tokyo Axis, was a military coalition that initiated World War II and fought against the Allies. Its principal members were Nazi Germany, Fascist Italy and the Empire of Japan. The Axis were united in their far-right positions and general opposition to the Allies, but otherwise lacked comparable coordination and ideological cohesion.
+The Axis grew out of successive diplomatic efforts by Germany, Italy, and Japan to secure their own specific expansionist interests in the mid-1930s. The first step was the protocol signed by Germany and Italy in October 1936, after which Italian leader Benito Mussolini declared that all other European countries would thereafter rotate on the Rome–Berlin axis, thus creating the term "Axis". The following November saw the ratification of the Anti-Comintern Pact, an anti-communist treaty between Germany and Japan; Italy joined the Pact in 1937, followed by Hungary and Spain in 1939. The "Rome–Berlin Axis" became a military alliance in 1939 under the so-called "Pact of Steel", with the Tripartite Pact of 1940 formally integrating the military aims of Germany, Italy, Japan, and later followed by other nations. The three pacts formed the foundation of the Axis alliance.
+At its zenith in 1942, the Axis presided over large parts of Europe, North Africa, and East Asia, either through occupation, annexation, or puppet states. In contrast to the Allies, there were no three-way summit meetings, and cooperation and coordination were minimal; on occasion, the interests of the major Axis powers were even at variance with each other. The Axis ultimately came to an end with its defeat in 1945.
+
+Particularly within Europe, the use of the term "the Axis" sometimes refers solely to the alliance between Italy and Germany, though outside Europe it is normally understood as including Japan.
+Link 38: BBC News
+Link: BBC News
+https://en.wikipedia.org/wiki/BBC_News
+Summary: BBC News is an operational business division of the British Broadcasting Corporation (BBC) responsible for the gathering and broadcasting of news and current affairs in the UK and around the world. The department is the world's largest broadcast news organisation and generates about 120 hours of radio and television output each day, as well as online news coverage. The service has over 5,500 journalists working across its output including in 50 foreign news bureaus where more than 250 foreign correspondents are stationed.
+Deborah Turness has been the CEO of news and current affairs since September 2022.
+In 2019, it was reported in an Ofcom report that the BBC spent £136m on news during the period April 2018 to March 2019. BBC News' domestic, global and online news divisions are housed within the largest live newsroom in Europe, in Broadcasting House in central London. Parliamentary coverage is produced and broadcast from studios in London. Through BBC English Regions, the BBC also has regional centres across England and national news centres in Northern Ireland, Scotland and Wales. All nations and English regions produce their own local news programmes and other current affairs and sport programmes.
+The BBC is a quasi-autonomous corporation authorised by royal charter, making it operationally independent of the government.
+Link 39: Bachelor of Arts
+Link: Bachelor of Arts
+https://en.wikipedia.org/wiki/Bachelor_of_Arts
+Summary: A Bachelor of Arts (abbreviated B.A., BA, A.B. or AB; from the Latin baccalaureus artium, baccalaureus in artibus, or artium baccalaureus) is a bachelor's degree awarded for an undergraduate program in the liberal arts, or, in some cases, other disciplines. A Bachelor of Arts degree course is generally completed in three or four years, depending on the country and institution.
+
+Degree attainment typically takes five or more years in Argentina, Brazil, and Chile.
+Degree attainment typically takes four years in Afghanistan, Armenia, Azerbaijan, Bangladesh, Brunei, Bulgaria, Canada (except Quebec), China, Egypt, Finland, Georgia, Ghana, Greece, Hong Kong, Indonesia, Iran, Iraq, Ireland, Japan, Kazakhstan, Kenya, Kuwait, Latvia, Lebanon, Lithuania, Malaysia, Mexico, Mongolia, Myanmar, Nepal, the Netherlands, Nigeria, Pakistan, the Philippines, Qatar, Russia, Saudi Arabia, Scotland, Serbia, Singapore, South Africa, South Korea, Spain, Sri Lanka, Taiwan, Thailand, Turkey, Ukraine, the United States, and Zambia.
+Degree attainment typically takes three years in Albania, Algeria, Australia, Austria, Bosnia and Herzegovina, the Caribbean, Denmark, France, Germany, Iceland, India, Israel, Italy, Montenegro, New Zealand, Norway, Poland, the Canadian province of Quebec, South Africa (certain degrees), Switzerland, the United Kingdom (except Scotland), and most of the European Union. In Bangladesh, China, Indonesia, Nigeria, Pakistan, and Russia, three-year BA (associates) courses are also available.  A three-year bachelor's degree usually does not qualify the holder for admission to graduate programs in other countries where four-year bachelor's degrees are the standard prerequisite.
+Link 40: Ballsbridge
+Link: Ballsbridge
+https://en.wikipedia.org/wiki/Ballsbridge
+Summary: Ballsbridge (Irish: Droichead na Dothra, meaning 'Dodder bridge') (from historic Ball's Bridge) is an affluent neighbourhood of the city of Dublin, the capital of Ireland. The area is largely situated north and west of a three-arch stone bridge across the River Dodder, on the south side of the city. The sign on the bridge still proclaims it as "Ball's Bridge", in recognition of the fact that the original bridge on that location was built and owned by the Ball family, a well-known Dublin merchant family in the 1500s and the 1600s. The current bridge was built in 1791.
+Ballsbridge was once part of the Pembroke Township.
+Link 41: Ban (unit)
+Link: Ban (unit)
+https://en.wikipedia.org/wiki/Hartley_(unit)
+Summary: The hartley (symbol Hart), also called a ban, or a dit (short for "decimal digit"), is a logarithmic unit that measures information or entropy, based on base 10 logarithms and powers of 10. One hartley is the information content of an event if the probability of that event occurring is 1⁄10. It is therefore equal to the information contained in one decimal digit (or dit), assuming a priori equiprobability of each possible value. It is named after Ralph Hartley.
+If base 2 logarithms and powers of 2 are used instead, then the unit of information is the shannon or bit, which is the information content of an event if the probability of that event occurring is 1⁄2. Natural logarithms and powers of e define the nat.
+One ban corresponds to ln(10) nat = log2(10) Sh, or approximately 2.303 nat, or 3.322 bit (3.322 Sh). A deciban is one tenth of a ban (or about 0.332 Sh); the name is formed from ban by the SI prefix deci-.
+Though there is no associated SI unit, information entropy is part of the International System of Quantities, defined by International Standard IEC 80000-13 of the International Electrotechnical Commission.
+Link 42: Banburismus
+Link: Banburismus
+https://en.wikipedia.org/wiki/Banburismus
+Summary: Banburismus was a cryptanalytic process developed by Alan Turing at Bletchley Park in Britain during the Second World War. It was used by Bletchley Park's Hut 8 to help break German Kriegsmarine (naval) messages enciphered on Enigma machines. The process used sequential conditional probability to infer information about the likely settings of the Enigma machine. It gave rise to Turing's invention of the ban as a measure of the weight of evidence in favour of a hypothesis. This concept was later applied in Turingery and all the other methods used for breaking the Lorenz cipher.
+Link 43: Bank of England £50 note
+Link: Bank of England £50 note
+https://en.wikipedia.org/wiki/Bank_of_England_%C2%A350_note
+Summary: The Bank of England £50 note is a sterling banknote circulated in the United Kingdom. It is the highest denomination of banknote currently issued for public circulation by the Bank of England. The current note, the second of this denomination to be printed in polymer, entered circulation on 5 June 2024. It bears the images of King Charles III and late Queen Elizabeth II on the obverse and computer scientist and World War II codebreaker Alan Turing on the reverse, with his birth date reflecting the release date. Cotton £50 notes from the previous series remained in circulation alongside the new polymer notes until 30 September 2022, when the last 'paper' banknote issue finally ceased to be legal tender.
+Link 44: Baronet
+Link: Baronet
+https://en.wikipedia.org/wiki/Baronet
+Summary: A baronet ( or ; abbreviated Bart or Bt) or the female equivalent, a baronetess (, , or ; abbreviation Btss), is the holder of a baronetcy, a hereditary title awarded by the British Crown. The title of baronet is mentioned as early as the 14th century; however, in its current usage it was created by James I of England in 1611 as a means of raising funds for the crown.
+Baronets rank below barons and above knights bachelor. Like knights, they are addressed as "Sir" (or "Dame" in the case of baronetesses). They are conventionally seen to belong to the lesser nobility, even though William Thoms claims that:
+
+The precise quality of this dignity is not yet fully determined, some holding it to be the head of the nobiles minores, while others, again, rank Baronets as the lowest of the nobiles majores, because their honour, like that of the higher nobility, is both hereditary and created by patent.
+
+Comparisons with continental titles and ranks are tenuous due to the British system of primogeniture and because claims to baronetcies must be proven; currently the Official Roll of the Baronetage is overseen by the Ministry of Justice. In practice this means that the UK Peerage and Baronetage consist of about 1,200 families (some peers are also baronets), which is roughly less than 0.01% of UK families.
+Link 45: Bart Simpson
+Link: Bart Simpson
+https://en.wikipedia.org/wiki/Bart_Simpson
+Summary: Bartholomew Jojo "Bart" Simpson is a fictional character in the American animated television series The Simpsons and part of the Simpson family. He is voiced by Nancy Cartwright and first appeared on television in The Tracey Ullman Show short "Good Night" on April 19, 1987. Cartoonist Matt Groening created and designed Bart while waiting in the lobby of James L. Brooks' office. Groening had been called to pitch a series of shorts based on his comic strip, Life in Hell, but instead decided to create a new set of characters. While the rest of the characters were named after Groening's family members, Bart's name is an anagram of the word brat. After appearing on The Tracey Ullman Show for two years, the Simpson family received its own series on Fox, which debuted December 17, 1989. Bart has appeared in every Simpsons episode except "Four Great Women and a Manicure".
+At ten years old, Bart is the eldest child and only son of Homer and Marge, and the brother of Lisa and Maggie. Bart's most prominent and popular character traits are his mischievousness, rebelliousness and disrespect for authority. Hallmarks of the character include his chalkboard gags in the opening sequence; his prank calls to Moe; and his catchphrases "Eat my shorts", "¡Ay, caramba!", "Don't have a cow, man!", and "I'm Bart Simpson. Who the hell are you?". However, with the exception of "¡Ay, caramba!", these hallmarks have been retired or are not often used. Bart has appeared in other media relating to The Simpsons – including video games, The Simpsons Movie, The Simpsons Ride, commercials, and comic books – and inspired an entire line of merchandise.
+In casting, Cartwright originally planned to audition for the role of Lisa, while Yeardley Smith tried out for Bart. Smith's voice was considered too high for a boy, so she was given the role of Lisa. Likewise, Cartwright found Lisa uninteresting, so she instead auditioned for Bart, which she thought was a better role.
+During the first two seasons of The Simpsons, Bart was the show's protagonist and "Bartmania" ensued, spawning Bart Simpson-themed merchandise touting his rebellious attitude and pride at underachieving, which caused many parents and educators to cast him as a bad role model for children. Around the third season, the role of the protagonist was taken over by his father, and series started to focus more on the family as a whole, though Bart still remains a prominent breakout character. Time named Bart one of the 100 most important people of the 20th century, and he was named "entertainer of the year" in 1990 by Entertainment Weekly. Cartwright has won several awards for voicing Bart, including a Primetime Emmy Award in 1992 and an Annie Award in 1995. In 2000, Bart, along with the rest of his family, was awarded a star on the Hollywood Walk of Fame. In episode 13 of Season 21, it is revealed that he is 1/64th black.
+Link 46: Baston Lodge
+Link: Baston Lodge
+https://en.wikipedia.org/wiki/Baston_Lodge
+Summary: Baston Lodge is a residential villa in St Leonards-on-Sea, Hastings, East Sussex, southern England.
+The building was designed by Decimus Burton (1800–1881) as a seaside villa for John Ward, a friend, and completed in 1850. The architecture is in the Italianate style, with coursed stone, chamfered quoins, and plain stone architraves and bands. It has low-pitched slate roofs with two main storeys, an attic, and a basement. There is a three-storey tower with a low-pitched pyramid-shaped roof.
+Baston Lodge was the childhood home of the World War II codebreaker Alan Turing (1912–1954) and there is a blue plaque on the front of the building commemorating this. Alan Turing and his elder brother John Turing were wards of Colonel and Mrs Ward.
+The building was Grade II listed in 1973. The blue plaque commemorating Alan Turing was unveiled on 23 June 2012, the centenary of Turing's birth.
+The villa is located at 1 Upper Maze Hill and is close to St John's Church to the north. Immediately to the west is St Michael's Hospice and to the south is St Leonards Gardens. The building is now divided into apartments and the freehold of the building is owned by Baston Lodge Freehold Ltd.
+Link 47: Battle of the Atlantic
+Link: Battle of the Atlantic
+https://en.wikipedia.org/wiki/Battle_of_the_Atlantic
+Summary: The Battle of the Atlantic, the longest continuous military campaign in World War II, ran from 1939 to the defeat of Nazi Germany in 1945, covering a major part of the naval history of World War II. At its core was the Allied naval blockade of Germany, announced the day after the declaration of war, and Germany's subsequent counter-blockade. The campaign peaked from mid-1940 through to the end of 1943.
+The Battle of the Atlantic pitted U-boats and other warships of the German Kriegsmarine (Navy) and aircraft of the Luftwaffe (Air Force) against the Royal Navy, Royal Canadian Navy, United States Navy, and Allied merchant shipping. Convoys, coming mainly from North America and predominantly going to the United Kingdom and the Soviet Union, were protected for the most part by the British and Canadian navies and air forces. These forces were aided by ships and aircraft of the United States beginning September 13, 1941. The Germans were joined by submarines of the Italian Regia Marina (Royal Navy) after Germany's Axis ally Italy entered the war on June 10, 1940.
+As an island country, the United Kingdom was highly dependent on imported goods. Britain required more than a million tons of imported material per week in order to survive and fight. In essence, the Battle of the Atlantic involved a tonnage war; the Allied struggle to supply Britain, and the Axis attempt to stem the flow of merchant shipping that enabled Britain to keep fighting. Rationing in the United Kingdom was also used with the aim of reducing demand, by reducing wastage and increasing domestic production and equality of distribution. From 1942 onward, the Axis also sought to prevent the build-up of Allied supplies and equipment in the UK in preparation for the invasion of occupied Europe. The defeat of the U-boat threat was a prerequisite for pushing back the Axis in Western Europe. The outcome of the battle was a strategic victory for the Allies—the German tonnage war failed—but at great cost: 3,500 merchant ships and 175 warships were sunk in the Atlantic for the loss of 783 U-boats and 47 German surface warships, including 4 battleships (Bismarck, Scharnhorst, Gneisenau, and Tirpitz), 9 cruisers, 7 raiders, and 27 destroyers. This front ended up being highly significant for the German war effort: Germany spent more money on producing naval vessels than it did every type of ground vehicle combined, including tanks.
+The Battle of the Atlantic has been called the "longest, largest, and most complex" naval battle in history. The campaign started immediately after the European war began, during the so-called "Phoney War", and lasted more than five years, until the German surrender in May 1945. It involved thousands of ships in a theatre covering millions of square miles of ocean. The situation changed constantly, with one side or the other gaining advantage, as participating countries surrendered, joined and even changed sides in the war, and as new weapons, tactics, counter-measures and equipment were developed by both sides. The Allies gradually gained the upper hand, overcoming German surface-raiders by the end of 1942 and defeating the U-boats by mid-1943, though losses due to U-boats continued until the war's end. British Prime Minister Winston Churchill later wrote "The only thing that really frightened me during the war was the U-boat peril. I was even more anxious about this battle than I had been about the glorious air fight called the 'Battle of Britain'."
+Link 48: Beatrice Worsley
+Link: Beatrice Worsley
+https://en.wikipedia.org/wiki/Beatrice_Worsley
+Summary: Beatrice Helen Worsley (18 October 1921 – 8 May 1972) was a Canadian computer scientist, the first woman in the country to work in that profession. She received her Ph.D. degree from the University of Cambridge with Maurice Wilkes as adviser, the first Ph.D. granted in what would today be known as computer science. She wrote the first program to run on EDSAC, co-wrote the first compiler for Toronto's Ferranti Mark 1, wrote numerous papers in computer science, and taught computers and engineering at Queen's University and the University of Toronto for over 20 years before her death at the age of 50.
+Link 49: Bell Labs
+Link: Bell Labs
+https://en.wikipedia.org/wiki/Bell_Labs
+Summary: Bell Labs is an American industrial research and scientific development company credited with the development of radio astronomy, the transistor, the laser, the photovoltaic cell, the charge-coupled device (CCD), information theory, the Unix operating system, and the programming languages B, C, C++, S, SNOBOL, AWK, AMPL, and others. Ten Nobel Prizes and five Turing Awards have been awarded for work completed at Bell Laboratories.
+Bell Labs had its origin in the complex corporate organization of the Bell System telephone conglomerate. The laboratory began in the late 19th century as the Western Electric Engineering Department, located at 463 West Street in New York City. After years of conducting research and development under Western Electric, a Bell subsidiary, the Engineering Department was reformed into Bell Telephone Laboratories in 1925 and placed under the shared ownership of Western Electric and the American Telephone and Telegraph Company (AT&T). In the 1960s, laboratory and company headquarters were moved to Murray Hill, New Jersey. Nokia acquired Bell Labs in 2016 as part of its acquisition of Alcatel-Lucent.
+Link 50: Belousov–Zhabotinsky reaction
+Link: Belousov–Zhabotinsky reaction
+https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction
+Summary: A Belousov–Zhabotinsky reaction, or BZ reaction, is one of a class of reactions that serve as a classical example of non-equilibrium thermodynamics, resulting in the establishment of a nonlinear chemical oscillator. The only common element in these oscillators is the inclusion of bromine and an acid. The reactions are important to theoretical chemistry in that they show that chemical reactions do not have to be dominated by equilibrium thermodynamic behavior. These reactions are far from equilibrium  and remain so for a significant length of time and evolve chaotically. In this sense, they provide an interesting chemical model of nonequilibrium biological  phenomena; as such, mathematical models and simulations of the BZ reactions themselves are of theoretical interest, showing phenomenon as noise-induced order.
+
+An essential aspect of the BZ reaction is its so called "excitability"; under the influence of stimuli, patterns develop in what would otherwise be a perfectly quiescent medium. Some clock reactions such as Briggs–Rauscher and BZ using tris(bipyridine)ruthenium(II) chloride as catalyst can be excited into self-organising activity through the influence of light.
+Link 51: Ben Wallace (politician)
+Link: Ben Wallace (politician)
+https://en.wikipedia.org/wiki/Ben_Wallace_(politician)
+Summary: Robert Ben Lobban Wallace (born 15 May 1970) is a British politician and former British Army Officer who served as Secretary of State for Defence from 2019 to 2023. A member of the Conservative Party, he was the Member of Parliament (MP) for Wyre and Preston North, formerly Lancaster and Wyre, from 2005 to 2024.
+Before becoming involved in politics, Wallace was a captain in the Scots Guards. He was elected in 1999 as a Conservative list Member of the Scottish Parliament (MSP) for North East Scotland, serving until 2003. He subsequently resigned from the Scottish Parliament, moved to Lancashire and sought selection for a Westminster constituency in England. First elected to the UK Parliament in 2005, Wallace served as a backbencher for nearly five years. From 2010 to 2014, he was Parliamentary Private Secretary to the then Secretary of State for Justice, Ken Clarke. Wallace served as a party whip from July 2014 to May 2015.
+Following the 2015 general election and the formation of the majority Cameron government, he became Parliamentary Under-Secretary of State in the Northern Ireland Office. In 2016, he was appointed Minister of State for Security and Economic Crime by Theresa May, holding the position until she left office in July 2019. A supporter of Boris Johnson, Wallace was promoted to the senior cabinet role of Secretary of State for Defence, after Johnson became Prime Minister. He continued the role under Liz Truss and Rishi Sunak, making him the longest serving member of the Cabinet to serve continuously in the same position until he left office.
+In July 2023, Wallace announced that he intended to resign as Secretary of State for Defence at the next Cabinet reshuffle, and that he would not be seeking re-election as an MP at the 2024 general election. In August 2023, Wallace formally resigned as Secretary of State for Defence.
+Link 52: Bendix G-15
+Link: Bendix G-15
+https://en.wikipedia.org/wiki/Bendix_G-15
+Summary: The Bendix G-15 is a computer introduced in 1956 by the Bendix Corporation, Computer Division, Los Angeles, California. It is about 5 by 3 by 3 feet (1.52 m × 0.91 m × 0.91 m) and weighs about 966 pounds (438 kg). The G-15 has a drum memory of 2,160 29-bit words, along with 20 words used for special purposes and rapid-access storage.
+The base system, without peripherals, cost $49,500. A working model cost around $60,000 (equivalent to $672,411 in 2023). It could also be rented for $1,485 per month.  It was meant for scientific and industrial markets.  The series was gradually discontinued when Control Data Corporation took over the Bendix computer division in 1963.
+The chief designer of the G-15 was Harry Huskey, who had worked with Alan Turing on the ACE in the United Kingdom and on the SWAC in the 1950s. He made most of the design while working as a professor at Berkeley (where his graduate students included Niklaus Wirth), and other universities.  David C. Evans was one of the Bendix engineers on the G-15 project.  He would later become famous for his work in computer graphics and for starting up Evans & Sutherland with Ivan Sutherland.
+Link 53: Bengal Army
+Link: Bengal Army
+https://en.wikipedia.org/wiki/Bengal_Army
+Summary: The Bengal Army was the army of the Bengal Presidency, one of the three presidencies of British India within the British Empire.
+The presidency armies, like the presidencies themselves, belonged to the East India Company (EIC) until the Government of India Act 1858, passed in the aftermath of the Indian Rebellion of 1857, transferred all three presidencies to the direct authority of the British Crown.
+In 1895 all three presidency armies were merged into the Indian Army.
+Link 54: Bertie the Brain
+Link: Bertie the Brain
+https://en.wikipedia.org/wiki/Bertie_the_Brain
+Summary: Bertie the Brain is one of the first games developed in the early history of video games. It was built in Toronto by Josef Kates for the 1950 Canadian National Exhibition. The four meter (13 foot) tall computer allowed exhibition attendees to play a game of tic-tac-toe against an artificial intelligence. The player entered a move on a keypad in the form of a three-by-three grid, and the game played out on a grid of lights overhead. The machine had an adjustable difficulty level. After two weeks on display by Rogers Majestic, the machine was disassembled at the end of the exhibition and largely forgotten as a curiosity.
+Kates built the game to showcase his additron tube, a miniature version of the vacuum tube, though the transistor overtook it in computer development shortly thereafter. Patent issues prevented the additron tube from being used in computers besides Bertie before it was no longer useful. Bertie the Brain is a candidate for the first video game, as it was potentially the first computer game to have any sort of visual display of the game. It appeared only three years after the 1947 invention of the cathode-ray tube amusement device, the earliest known interactive electronic game to use an electronic display. Bertie's use of light bulbs rather than a screen with real-time visual graphics, however, much less moving graphics, does not meet some definitions of a video game.
+Link 55: Betty Holberton
+Link: Betty Holberton
+https://en.wikipedia.org/wiki/Betty_Holberton
+Summary: Frances Elizabeth Holberton (March 7, 1917 – December 8, 2001) was an American computer scientist who was one of the six original programmers of the first general-purpose electronic digital computer, ENIAC (Electronic Numerical Integrator And Computer). The other five ENIAC programmers were Jean Bartik, Ruth Teitelbaum, Kathleen Antonelli, Marlyn Meltzer, and Frances Spence.
+Holberton invented breakpoints in computer debugging.
+Link 56: Bibcode (identifier)
+Link: Bibcode (identifier)
+https://en.wikipedia.org/wiki/Bibcode
+Summary: The bibcode (also known as the refcode) is a compact identifier used by several astronomical data systems to uniquely specify literature references.
+Link 57: Bill Gates
+Link: Bill Gates
+https://en.wikipedia.org/wiki/Bill_Gates
+Summary: William Henry Gates III  (born October 28, 1955) is an American businessman, investor, philanthropist, and writer best known for co-founding the software company Microsoft with his childhood friend Paul Allen. During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO), president, and chief software architect, while also being its largest individual shareholder until May 2014. He was a pioneer of the microcomputer revolution of the 1970s and 1980s.
+Gates was born and raised in Seattle, Washington. In 1975, he and Allen founded Microsoft in Albuquerque, New Mexico. Gates led the company as its chairman and chief executive officer until stepping down as CEO in January 2000, succeeded by Steve Ballmer, but he remained chairman of the board of directors and became chief software architect. During the late 1990s, he was criticized for his business tactics, which were considered anti-competitive. In June 2008, Gates transitioned into a part-time role at Microsoft and full-time work at the Bill & Melinda Gates Foundation, the private charitable foundation he and his then-wife Melinda had established in 2000. He stepped down as chairman of the Microsoft board in February 2014 and assumed the role of technology adviser to support newly appointed CEO Satya Nadella. In March 2020, Gates left his board positions at Microsoft and Berkshire Hathaway to focus on his philanthropic efforts on climate change, global health and development, and education.
+Since 1987, Gates has been included in the Forbes list of the world's top billionaires. From 1995 to 2017, he held the title of the wealthiest person in the world every year except in 2008 and from 2010 to 2013. In 1999, he became the first ever centibillionaire when his net worth briefly surpassed US$100 billion.
+Later in his career and since leaving day-to-day operations at Microsoft in 2008, Gates has pursued other business and philanthropic endeavors. He is the founder and chairman of several companies, including BEN, Cascade Investment, TerraPower, Gates Ventures, and Breakthrough Energy. He has donated sizable amounts of money to various charitable organizations and scientific research programs through the Bill & Melinda Gates Foundation, reported to be the world's largest private charity. Through the foundation, he led an early 21st century vaccination campaign that significantly contributed to the eradication of the wild poliovirus in Africa. In 2010, Gates and Warren Buffett founded The Giving Pledge, whereby they and other billionaires pledge to give at least half of their wealth towards philanthropy.
+Link 58: Bill W.
+Link: Bill W.
+https://en.wikipedia.org/wiki/Bill_W.
+Summary: William Griffith Wilson (November 26, 1895 – January 24, 1971), also known as Bill Wilson or Bill W., was the co-founder of Alcoholics Anonymous (AA).
+AA is an international mutual aid fellowship with about two million members worldwide belonging to AA groups, associations, organizations, cooperatives, and fellowships of alcoholics helping other alcoholics achieve and maintain sobriety.  Following  AA's Twelfth Tradition of anonymity, Wilson is commonly known as "Bill W." or "Bill". To identify each other, members of AA will sometimes ask others if they are "friends of Bill". After Wilson's death, and amidst controversy within the fellowship, his full name was included in obituaries by journalists who were unaware of the significance of maintaining anonymity within the organization.
+Wilson's sobriety from alcohol, which he maintained until his death, began December 11, 1934. In 1955, Wilson turned over control of AA to a board of trustees. Wilson died in 1971 of emphysema from smoking tobacco complicated by pneumonia. In 1999, Time listed him as "Bill W.: The Healer" in the Time 100: The Most Important People of the Century.
+Link 59: Billy Graham
+Link: Billy Graham
+https://en.wikipedia.org/wiki/Billy_Graham
+Summary: William Franklin Graham Jr. (; November 7, 1918 – February 21, 2018) was an American evangelist, ordained Southern Baptist minister and civil rights advocate whose broadcasts and world tours featuring live sermons became well known in the mid- to late 20th century. Throughout his career, spanning over six decades, Graham rose to prominence as an evangelical Christian figure in the United States and abroad.
+According to a biographer, Graham was considered "among the most influential Christian leaders" of the 20th century. Beginning in the late 1940s and early 1950s, Graham became known for filling stadiums and other massive venues around the world where he preached live sermons; these were often broadcast via radio and/or television, with some continuing to be seen into the 21st century. During his six decades on television, Graham hosted his annual "crusades", evangelistic live-campaigns, from 1947 until his retirement in 2005. He also hosted the radio show Hour of Decision from 1950 to 1954. He openly repudiated racial segregation at a time of intense racial strife in the United States, insisting on racial integration for all of his revivals and crusades, as early as 1953. He also later invited Martin Luther King Jr. to preach jointly at a revival in New York City in 1957. In addition to his religious aims, he helped shape the worldview of a huge number of people who came from different backgrounds, leading them to find a relationship between the Bible and contemporary secular viewpoints. According to his website, Graham spoke to live audiences consisting of at least 210 million people, in more than 185 countries and territories, through various meetings, including BMS World Mission and Global Mission event.
+Graham was close to US presidents Dwight D. Eisenhower, Lyndon B. Johnson (one of his closest friends), and Richard Nixon. He was also lifelong friends with Robert Schuller, another televangelist and the founding pastor of the Crystal Cathedral, whom Graham talked into starting his own television ministry. Graham's evangelism was appreciated by mainline Protestant denominations, as he encouraged  mainline Protestants, whom were converted to his evangelical message, to remain within or return to their mainline churches. Despite early suspicions and apprehension on his part  towards Catholicism—common among contemporaneous evangelical Protestants—Graham nevertheless continued in his open-minded quest for knowledge and awareness, eventually developing amicable ties with many American Catholic Church figures, later encouraging unity between Catholics and Protestants.
+Graham operated a variety of media and publishing outlets; according to his staff, more than 3.2 million people have responded to the invitation at Billy Graham Crusades to "accept Jesus Christ as their personal savior".
+Graham's estimated lifetime audience, including radio and television broadcasts, likely surpassed billions of people. As a result of his crusades, Graham preached the gospel to more people, live and in-person, than anyone in the history of Christianity. Graham was on Gallup's list of most admired men and women a record-61 times. Grant Wacker wrote that, by the mid-1960s, he had become the "Great Legitimator", saying: "By then his presence conferred status on presidents, acceptability on wars, shame on racial prejudice, desirability on decency, dishonor on indecency, and prestige on civic events."
+Link 60: Binary multiplier
+Link: Binary multiplier
+https://en.wikipedia.org/wiki/Binary_multiplier
+Summary: A binary multiplier is an electronic circuit used in digital electronics, such as a computer, to multiply two binary numbers.
+A variety of computer arithmetic techniques can be used to implement a digital multiplier. Most techniques involve computing the set of partial products, which are then summed together using binary adders. This process is similar to long multiplication, except that it uses a base-2 (binary) numeral system.
+Link 61: Biographical Memoirs of Fellows of the Royal Society
+Link: Biographical Memoirs of Fellows of the Royal Society
+https://en.wikipedia.org/wiki/Biographical_Memoirs_of_Fellows_of_the_Royal_Society
+Summary: The Biographical Memoirs of Fellows of the Royal Society is an academic journal on the history of science published annually by the Royal Society. It publishes obituaries of Fellows of the Royal Society. It was established in 1932 as Obituary Notices of Fellows of the Royal Society and obtained its current title in 1955, with volume numbering restarting at 1. Prior to 1932, obituaries were published in the Proceedings of the Royal Society.
+The memoirs are a significant historical record and most include a full bibliography of works by the subjects. The memoirs are often written by a scientist of the next generation, often one of the subject's own former students, or a close colleague. In many cases the author is also a Fellow. Notable biographies published in this journal include Albert Einstein, Alan Turing, Bertrand Russell, Claude Shannon, Clement Attlee, Ernst Mayr, and Erwin Schrödinger.
+Each year, around 40 to 50 memoirs of deceased Fellows of the Royal Society are collated by the Editor-in-Chief, currently Malcolm Longair, who succeeded Trevor Stuart in 2016. All contents are freely available to read.
+
+
+== References ==
+Link 62: Birth name
+Link: Birth name
+https://en.wikipedia.org/wiki/Birth_name
+Summary: A birth name is the name given to a person upon birth. The term may be applied to the surname, the given name, or the entire name. Where births are required to be officially registered, the entire name entered onto a birth certificate or birth register may by that fact alone become the person's legal name.
+The assumption in the Western world is often that the name from birth (or perhaps from baptism or brit milah) will persist to adulthood in the normal course of affairs—either throughout life or until marriage. Some reasons for changes of a person's name include middle names, diminutive forms, changes relating to parental status (due to one's parents' divorce or adoption by different parents), and gender transition.
+Link 63: Biuro Szyfrów
+Link: Biuro Szyfrów
+https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)
+Summary: The Cipher Bureau (Polish: Biuro Szyfrów, [ˈbʲurɔ ˈʂɨfruf] ) was the interwar Polish General Staff's Second Department's unit charged with SIGINT and both cryptography (the use of ciphers and codes) and cryptanalysis (the study of ciphers and codes, for the purpose of "breaking" them).
+The precursor of the agency that would become the Cipher Bureau was created in May 1919, during the Polish-Soviet War (1919–1921), and played a vital role in securing Poland's survival and victory in that war.
+In mid-1931, the Cipher Bureau was formed by the merger of pre-existing agencies. In December 1932, the Bureau began breaking Germany's Enigma ciphers. Over the next seven years, Polish cryptologists overcame the growing structural and operating complexities of the plugboard-equipped Enigma. The Bureau also broke Soviet cryptography.
+Five weeks before the outbreak of World War II, on 25 July 1939, in Warsaw, the Polish Cipher Bureau revealed its Enigma-decryption techniques and equipment to representatives of French and British military intelligence, which had been unable to make any headway against Enigma. This Polish intelligence-and-technology transfer would give the Allies an unprecedented advantage (Ultra) in their ultimately victorious prosecution of World War II.
+Link 64: Bjarne Stroustrup
+Link: Bjarne Stroustrup
+https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+Summary: Bjarne Stroustrup (; Danish: [ˈpjɑːnə ˈstʁʌwˀstʁɔp]; born 30 December 1950) is a Danish computer scientist, known for the development of the C++ programming language. He led the Large-scale Programming Research department at Bell Labs, served as a professor of computer science at Texas A&M University, and spent over a decade at Morgan Stanley while also being a visiting professor at Columbia University. Since 2022 he has been a full professor at Columbia.
+Link 65: Blackpool Pleasure Beach
+Link: Blackpool Pleasure Beach
+https://en.wikipedia.org/wiki/Blackpool_Pleasure_Beach
+Summary: Pleasure Beach Resort, formerly known as Blackpool Pleasure Beach, is an amusement park situated on Blackpool's South Shore, in the county of Lancashire, North West England. The park was founded in 1896 by A. W. G. Bean and his partner John Outhwaite. The current managing director is Amanda Thompson.
+The park is host to many records, including the largest collection  of wooden roller coasters of any park in the United Kingdom with four: the Big Dipper, Blue Flyer, Grand National and Nickelodeon Streak. Many of the roller coasters in the park are record-breaking attractions. When it opened in 1994, The Big One was the tallest roller coaster in the world. It was also the steepest, with an incline angle of 65° and the second fastest with a top speed of 74 miles per hour (119 km/h). The ride holds the record as the second tallest roller coaster in the United Kingdom, standing at 213 ft (65 m), with a first drop of 205 ft (62 m) and the longest roller coaster in Europe, with a track length of 5,497 ft (1,675 m).
+The park was the first in Europe to introduce a fully inverting steel coaster, Revolution and is the last remaining park in the world to still operate a Steeplechase roller coaster. The Grand National is one of only three Möbius loop coasters in existence, where a singular track "loops" around itself, offering a facsimile out-and-back layout and creating a "racing" effect on two parallel tracks. Sir Hiram Maxims Captive Flying Machine is the oldest amusement park ride in Europe having opened in August 1904. At the cost of £15 million, Valhalla was one of the largest and most expensive indoor dark rides in the world. Designed by Sarner and manufactured by Intamin, Valhalla won "Best Water Ride" at the 2018 Golden Ticket awards, an accolade it has held over a consecutive number of years. The park also operates a Nickelodeon Land and the world's only Wallace & Gromit ride, the Thrill-O-Matic. In 2015 the park introduced Red Arrows Sky Force, a Gerstlauer Sky Fly thrill ride which is the first ride of its kind in the United Kingdom. The latest record is taken by Icon, a multi-launch coaster manufactured by Mack Rides in Germany.
+Link 66: Bletchley Park
+Link: Bletchley Park
+https://en.wikipedia.org/wiki/Bletchley_Park
+Summary: Bletchley Park is an English country house and estate in Bletchley, Milton Keynes (Buckinghamshire), that became the principal centre of Allied code-breaking during the Second World War. The mansion was constructed during the years following 1883 for the financier and politician Herbert Leon in the Victorian Gothic, Tudor and Dutch Baroque styles, on the site of older buildings of the same name.
+During World War II, the estate housed the Government Code and Cypher School (GC&CS), which regularly penetrated the secret communications of the Axis Powers –  most importantly the German Enigma and Lorenz ciphers. The GC&CS team of codebreakers included Alan Turing, Harry Golombek, Gordon Welchman, Hugh Alexander, Bill Tutte and Stuart Milner-Barry.
+According to the official historian of British Intelligence, the "Ultra" intelligence produced at Bletchley shortened the war by two to four years, and without it the outcome of the war would have been uncertain. The team at Bletchley Park devised automatic machinery to help with decryption, culminating in the development of Colossus, the world's first programmable digital electronic computer. Codebreaking operations at Bletchley Park came to an end in 1946 and all information about the wartime operations was classified until the mid-1970s.
+After the war it had various uses including as a teacher-training college and local GPO headquarters. By 1990 the huts in which the codebreakers worked were being considered for demolition and redevelopment. The Bletchley Park Trust was formed in February 1992 to save large portions of the site from development.
+More recently, Bletchley Park has been open to the public, featuring interpretive exhibits and huts that have been rebuilt to appear as they did during their wartime operations. It receives hundreds of thousands of visitors annually. The separate National Museum of Computing, which includes a working replica Bombe machine and a rebuilt Colossus computer, is housed in Block H on the site.
+Link 67: Blue plaque
+Link: Blue plaque
+https://en.wikipedia.org/wiki/Blue_plaque
+Summary: A blue plaque is a permanent sign installed in a public place in the United Kingdom, and certain other countries and territories, to commemorate a link between that location and a famous person, event, or former building on the site, serving as a historical marker. The term is used in the United Kingdom in two senses. It may be used narrowly and specifically to refer to the "official" scheme administered by English Heritage, and restricted to sites within Greater London; or it may be used less formally to encompass a number of similar schemes administered by organisations throughout the UK. The plaques erected are made in a variety of designs, shapes, materials and colours: some are blue, others are not. However, the term "blue plaque" is often used informally to encompass all such schemes.
+Link 68: Bob Dylan
+Link: Bob Dylan
+https://en.wikipedia.org/wiki/Bob_Dylan
+Summary: Bob Dylan (legally Robert Dylan; born Robert Allen Zimmerman, May 24, 1941) is an American singer-songwriter. Often considered to be one of the greatest songwriters in history, Dylan has been a major figure in popular culture over his 60-year career. He rose to prominence in the 1960s, when songs such as "The Times They Are a-Changin'" (1964) became anthems for the civil rights and antiwar movements. Initially modeling his style on Woody Guthrie's folk songs, Robert Johnson's blues, and what he called the "architectural forms" of Hank Williams's country songs, Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it "with the intellectualism of classic literature and poetry". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.
+Dylan was born and raised in St. Louis County, Minnesota. Following his self-titled debut album of traditional folk songs in 1962, he made his breakthrough with The Freewheelin' Bob Dylan (1963). The album featured "Blowin' in the Wind" and "A Hard Rain's a-Gonna Fall" which adapted the tunes and phrasing of older folk songs. He released the politically charged The Times They Are a-Changin' and the more lyrically abstract and introspective Another Side of Bob Dylan in 1964. In 1965 and 1966, Dylan drew controversy among folk purists when he adopted electrically amplified rock instrumentation, and in the space of 15 months recorded three of the most influential rock albums of the 1960s: Bringing It All Back Home, Highway 61 Revisited (both 1965) and Blonde on Blonde (1966). When Dylan made his move from acoustic folk and blues music to rock, the mix became more complex. His six-minute single "Like a Rolling Stone" (1965) expanded commercial and creative boundaries in popular music.
+In July 1966, a motorcycle accident led to Dylan's withdrawal from touring. During this period, he recorded a large body of songs with members of the Band, who had previously backed him on tour. These recordings were later released as The Basement Tapes in 1975. In the late 1960s and early 1970s, Dylan explored country music and rural themes on John Wesley Harding (1967), Nashville Skyline (1969) and New Morning (1970). In 1975, he released Blood on the Tracks, which many saw as a return to form. In the late 1970s, he became a born-again Christian and released three albums of contemporary gospel music before returning to his more familiar rock-based idiom in the early 1980s. Dylan's Time Out of Mind (1997) marked the beginning of a career renaissance. He has released five critically acclaimed albums of original material since, most recently Rough and Rowdy Ways (2020). He also recorded a trilogy of albums covering the Great American Songbook, especially songs sung by Frank Sinatra, and an album smoothing his early rock material into a mellower Americana sensibility, Shadow Kingdom (2023). Dylan has toured continuously since the late 1980s on what has become known as the Never Ending Tour.
+Since 1994, Dylan has published nine books of paintings and drawings, and his work has been exhibited in major art galleries. He has sold more than 125 million records, making him one of the best-selling musicians ever. He has received numerous awards, including the Presidential Medal of Freedom, ten Grammy Awards, a Golden Globe Award and an Academy Award. Dylan has been inducted into the Rock and Roll Hall of Fame, Nashville Songwriters Hall of Fame and the Songwriters Hall of Fame. In 2008, the Pulitzer Prize Board awarded him a special citation for "his profound impact on popular music and American culture, marked by lyrical compositions of extraordinary poetic power." In 2016, Dylan was awarded the Nobel Prize in Literature "for having created new poetic expressions within the great American song tradition."
+Link 69: Bomba (cryptography)
+Link: Bomba (cryptography)
+https://en.wikipedia.org/wiki/Bomba_(cryptography)
+Summary: The bomba, or bomba kryptologiczna (Polish for "bomb" or "cryptologic bomb"), was a special-purpose machine designed around October 1938 by Polish Cipher Bureau cryptologist Marian Rejewski to break German Enigma-machine ciphers.
+Link 70: Bombe
+Link: Bombe
+https://en.wikipedia.org/wiki/Bombe
+Summary: The bombe (UK: ) was an electro-mechanical device used by British cryptologists to help decipher German Enigma-machine-encrypted secret messages during World War II. The US Navy and US Army later produced their own machines to the same functional specification, albeit engineered differently both from each other and from Polish and British bombes.
+The British bombe was developed from a device known as the "bomba" (Polish: bomba kryptologiczna), which had been designed in Poland at the Biuro Szyfrów (Cipher Bureau) by cryptologist Marian Rejewski, who had been breaking German Enigma messages for the previous seven years, using it and earlier machines. The initial design of the British bombe was produced in 1939 at the UK Government Code and Cypher School (GC&CS) at Bletchley Park by Alan Turing, with an important refinement devised in 1940 by Gordon Welchman. The engineering design and construction was the work of Harold Keen of the British Tabulating Machine Company. The first bombe, code-named Victory, was installed in March 1940 while the second version, Agnus Dei or Agnes, incorporating Welchman's new design, was working by August 1940. 
+The bombe was designed to discover some of the daily settings of the Enigma machines on the various German military networks: specifically, the set of rotors in use and their positions in the machine; the rotor core start positions for the message—the message key—and one of the wirings of the plugboard.
+Link 71: Boris Pavlovich Belousov
+Link: Boris Pavlovich Belousov
+https://en.wikipedia.org/wiki/Boris_Belousov_(chemist)
+Summary: Boris Pavlovich Belousov (Russian: Бори́с Па́влович Белоу́сов; 19 February 1893 – 12 June 1970) was a Soviet chemist and biophysicist who discovered the Belousov–Zhabotinsky reaction (BZ reaction) in the early 1950s. His work initiated the field of modern nonlinear chemical dynamics.
+The Belousov family had strong anti-Tsarist sympathies and, after the Russian Revolution of 1905, they were arrested and later forced to leave the country. They settled in Switzerland, where Boris studied chemistry in Zürich.
+Returning to Russia at the beginning of World War I, Belousov tried to join the army, but was denied for health reasons. He took up a job in a military lab under the direction of the chemist Vladimir Ipatiev. His value to the institute is indicated by the high military rank, Brigade Commander, roughly corresponding to General, that he attained.
+After leaving the military, he took a job in the Laboratory of Biophysics in the Ministry of Health of the USSR, where he worked in toxicology. It was while seeking an inorganic analog of the biochemical citric acid cycle that Belousov chanced to discover an oscillating chemical reaction. He tried twice over a period of six years to publish his findings, but the incredulous editors of the journals to which he submitted his articles rejected his work as "impossible". He took this very hard.
+The biochemist Simon El'evich Shnoll, at the Institute for Theoretical and Experimental Biophysics in Pushchino, heard of Belousov's work and tried to encourage him to continue. Belousov gave Shnoll some of his experimental notes and agreed to publish an article in a rather obscure, non-reviewed, journal, but then essentially quit science. Shnoll gave the project to a graduate student, Anatol Zhabotinsky, who investigated the reaction in detail and succeeded in publishing his results. The reaction now bears the names of both Belousov and Zhabotinsky.
+Belousov was posthumously awarded the Lenin Prize in 1980 for his work on the BZ reaction.
+Link 72: Bovine tuberculosis
+Link: Bovine tuberculosis
+https://en.wikipedia.org/wiki/Mycobacterium_bovis
+Summary: Mycobacterium bovis is a slow-growing (16- to 20-hour generation time) aerobic bacterium and the causative agent of tuberculosis in cattle (known as bovine TB). It is related to Mycobacterium tuberculosis, the bacterium which causes tuberculosis in humans. M. bovis can jump the species barrier and cause tuberculosis-like infection in humans and other mammals.
+Link 73: Brian Kernighan
+Link: Brian Kernighan
+https://en.wikipedia.org/wiki/Brian_Kernighan
+Summary: Brian Wilson Kernighan (; born January 30, 1942) is a Canadian computer scientist.
+He worked at Bell Labs and contributed to the development of Unix alongside Unix creators Ken Thompson and Dennis Ritchie. Kernighan's name became widely known through co-authorship of the first book on the C programming language (The C Programming Language) with Dennis Ritchie. Kernighan affirmed that he had no part in the design of the C language ("it's entirely Dennis Ritchie's work").
+Kernighan authored many Unix programs, including ditroff. He is coauthor of the AWK and AMPL programming languages. The "K" of K&R C and of AWK both stand for "Kernighan".
+In collaboration with Shen Lin he devised well-known heuristics for two NP-complete optimization problems: graph partitioning and the travelling salesman problem. In a display of authorial equity, the former is usually called the Kernighan–Lin algorithm, while the latter is known as the Lin–Kernighan heuristic.
+Kernighan has been a professor of computer science at Princeton University since 2000 and is the director of undergraduate studies in the department of computer science. In 2015, he co-authored the book The Go Programming Language.
+Link 74: Brian Oakley
+Link: Brian Oakley
+https://en.wikipedia.org/wiki/Brian_Oakley
+Summary: Brian Wynne Oakley,  (10 October 1927 – 17 August 2012) was a British civil servant and industrialist who took a leading role in the area of information technology, especially the 1980s Alvey Programme.
+Link 75: Brian Randell
+Link: Brian Randell
+https://en.wikipedia.org/wiki/Brian_Randell
+Summary: Brian Randell DSc FBCS FLSW (born 1936) is a British computer scientist, and emeritus professor at the School of Computing, Newcastle University, United Kingdom. He specialises in research into software fault tolerance and dependability, and is a noted authority on the early pre-1950 history of computing hardware.
+Link 76: British Army
+Link: British Army
+https://en.wikipedia.org/wiki/British_Army
+Summary: The British Army is the principal land warfare force of the United Kingdom, British Overseas Territories and Crown Dependencies, a part of the British Armed Forces along with the Naval Service and the Royal Air Force. As of 1 January 2024, the British Army comprises 75,166 regular full-time personnel, 4,062 Gurkhas, 26,244 volunteer reserve personnel and 4,557 "other personnel", for a total of 110,029.
+The modern British Army traces back to 1707, with antecedents in the English Army and Scots Army that were created during the Restoration in 1660. The term British Army was adopted in 1707 after the Acts of Union between England and Scotland. Members of the British Army swear allegiance to the monarch as their commander-in-chief, but the Bill of Rights of 1689 and Claim of Right Act 1689 require parliamentary consent for the Crown to maintain a peacetime standing army. Therefore, Parliament approves the army by passing an Armed Forces Act at least once every five years. The army is administered by the Ministry of Defence and commanded by the Chief of the General Staff.
+The British Army, composed primarily of cavalry and infantry, was originally one of two Regular Forces within the British military (those parts of the British Armed Forces tasked with land warfare, as opposed to the naval forces), with the other having been the Ordnance Military Corps (made up of the Royal Artillery, Royal Engineers, and the Royal Sappers and Miners) of the Board of Ordnance, which along with the originally civilian Commissariat Department, stores and supply departments, as well as barracks and other departments were absorbed into the British Army when the Board of Ordnance was abolished in 1855. Various other civilian departments of the board were absorbed into the War Office.
+The British Army has seen action in major wars between the world's great powers, including the Seven Years' War, the American Revolutionary War, the Napoleonic Wars, the Crimean War and the First and Second World Wars. Britain's victories in most of these decisive wars allowed it to influence world events and establish itself as one of the world's leading military and economic powers. Since the end of the Cold War, the British Army has been deployed to a number of conflict zones, often as part of an expeditionary force, a coalition force or part of a United Nations peacekeeping operation.
+Link 77: British House of Lords
+Link: British House of Lords
+https://en.wikipedia.org/wiki/House_of_Lords
+Summary: The House of Lords is the upper house of the Parliament of the United Kingdom. Like the lower house, the House of Commons, it meets in the Palace of Westminster in London, England. One of the oldest institutions in the world, its origins lie in the early 11th century and the emergence of bicameralism in the 13th century.
+In contrast to the House of Commons, membership of the Lords is not generally acquired by election. Most members are appointed for life, on either a political or non-political basis.  Hereditary membership was abolished in 1999, apart from 92 excepted hereditary peers: 90 elected through internal by-elections, plus the Earl Marshal and Lord Great Chamberlain as members ex officio. No members directly inherit their seats any longer. The House of Lords also includes up to 26 archbishops and bishops of the Church of England, known as Lords Spiritual. Since 2014, membership may be voluntarily relinquished or terminated upon expulsion.
+As the upper house of Parliament, the House of Lords has many similar functions to the House of Commons. It scrutinises legislation, holds the government to account, and considers and reports upon public policy. Peers may also seek to introduce legislation or propose amendments to bills. While it is unable to prevent bills passing into law, except in certain limited circumstances, it may delay the enactment of bills for up to one year. In this capacity, as a body independent from the pressures of the political process, the House of Lords is said to act as a "revising chamber" focusing on legislative detail, while occasionally asking the House of Commons to reconsider its plans.
+While peers may also serve as government ministers, they are typically only selected to serve as junior ministers. The House of Lords does not control the term of the prime minister or of the government; only the Commons may vote to require the prime minister to resign or call an election. Unlike the House of Commons, which has a defined number of seats, the number of members in the House of Lords is not fixed. As of 2 July 2024, it has 783 sitting members. The House of Lords is the only upper house of any bicameral parliament in the world to be larger than its lower house, and is the second-largest legislative chamber in the world, behind the National People's Congress of China.
+The King's Speech is delivered in the House of Lords chamber during the State Opening of Parliament. In addition to its role as the upper house, the House of Lords, through the Law Lords, acted as the final court of appeal in the United Kingdom judicial system until the establishment of the Supreme Court in 2009. The House of Lords also has a Church of England role, in that Church Measures must be tabled within the House by the Lords Spiritual.
+Link 78: British Raj
+Link: British Raj
+https://en.wikipedia.org/wiki/British_Raj
+Summary: The British Raj ( RAHJ; from Hindi rāj, 'reign', 'rule' or 'government') was the rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India,
+or Direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially.
+As India, it was a founding member of the League of Nations, a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936, and a founding member of the United Nations in San Francisco in 1945.
+This system of governance was instituted on 28 June 1858, when, after the Indian Rebellion of 1857, the rule of the East India Company was transferred to the Crown in the person of Queen Victoria (who, in 1876, was proclaimed Empress of India). It lasted until 1947, when the British Raj was partitioned into two sovereign dominion states: the Union of India (later the Republic of India) and Pakistan (later the Islamic Republic of Pakistan). Later, the People's Republic of Bangladesh gained independence from Pakistan. At the inception of the Raj in 1858, Lower Burma was already a part of British India; Upper Burma was added in 1886, and the resulting union, Burma, was administered as an autonomous province until 1937, when it became a separate British colony, gaining its own independence in 1948. It was renamed Myanmar in 1989. The Chief Commissioner's Province of Aden was also part of British India at the inception of the British Raj, and became a separate colony known as Aden Colony in 1937 as well.
+Link 79: Bruce Lee
+Link: Bruce Lee
+https://en.wikipedia.org/wiki/Bruce_Lee
+Summary: Bruce Lee (born Lee Jun-fan; November 27, 1940 – July 20, 1973) was a Hong Kong-American martial artist and actor. He was the founder of Jeet Kune Do, a hybrid martial arts philosophy drawing from different combat disciplines that is sometimes credited with paving the way for the combat sport mixed martial arts (MMA). Lee is considered by some commentators and martial artists to be the most influential martial artist of all time and a pop culture icon of the 20th century, who bridged the gap between East and West. He is credited with promoting Hong Kong action cinema and helping to change the way Chinese people were presented in American films.
+Born in San Francisco and raised in British Hong Kong, Lee was introduced to the Hong Kong film industry as a child actor by his father. His early martial arts experience included Wing Chun (trained under Ip Man), tai chi, boxing (winning a Hong Kong boxing tournament), and frequent street fighting (neighborhood and rooftop fights). In 1959, Lee moved to Seattle, where he enrolled at the University of Washington in 1961. It was during this time in the United States that he began considering making money by teaching martial arts, even though he aspired to have a career in acting. He opened his first martial arts school, operated out of home in Seattle. After later adding a second school in Oakland, California, he once drew significant attention at the 1964 Long Beach International Karate Championships of California by making demonstrations and speaking. He subsequently moved to Los Angeles to teach, where his students included Chuck Norris, Sharon Tate, and Kareem Abdul-Jabbar. In the 1970s, his Hong Kong and Hollywood-produced films elevated Hong Kong martial arts films to a new level of popularity and acclaim, sparking a surge of Western interest in Chinese martial arts. The direction and tone of his films dramatically influenced and changed martial arts and martial arts films worldwide.
+With a career spanning Hong Kong and the United States, he is known for his roles in five feature-length Hong Kong martial arts films in the early 1970s: Lo Wei's The Big Boss (1971) and Fist of Fury (1972); Golden Harvest's The Way of the Dragon (1972), directed and written by Lee; and Golden Harvest and Warner Brothers' Enter the Dragon (1973) and The Game of Death (1978), both directed by Robert Clouse. Lee became an iconic figure known throughout the world, particularly among the Chinese, based upon his portrayal of Cantonese culture in his films, and among Asian Americans for defying Asian stereotypes in the United States. Having initially learned Wing Chun, tai chi, boxing, and street fighting, he combined them with other influences from various sources into the spirit of his personal martial arts philosophy, which he dubbed Jeet Kune Do (The Way of the Intercepting Fist).
+Lee died in July 1973, aged 32. Since his death, Lee has continued to be a prominent influence on modern combat sports, including judo, karate, mixed martial arts, and boxing, as well as modern popular culture, including film, television, comics, animation, and video games. Time named Lee one of the 100 most important people of the 20th century.
+Link 80: CAPTCHA
+Link: CAPTCHA
+https://en.wikipedia.org/wiki/CAPTCHA
+Summary: A CAPTCHA ( KAP-chə) is a type of challenge–response test used in computing to determine whether the user is human in order to deter bot attacks and spam.
+The term was coined in 2003 by Luis von Ahn, Manuel Blum, Nicholas J. Hopper, and John Langford. It is a contrived acronym for "Completely Automated Public Turing test to tell Computers and Humans Apart." A historically common type of CAPTCHA (displayed as reCAPTCHA v1) was first invented in 1997 by two groups working in parallel. This form of CAPTCHA requires entering a sequence of letters or numbers in a distorted image. Because the test is administered by a computer, in contrast to the standard Turing test that is administered by a human, CAPTCHAs are sometimes described as reverse Turing tests.
+Two widely used CAPTCHA services are Google's reCAPTCHA and the independent hCaptcha. It takes the average person approximately 10 seconds to solve a typical CAPTCHA.
+Link 81: Calculus
+Link: Calculus
+https://en.wikipedia.org/wiki/Calculus
+Summary: Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape, and algebra is the study of generalizations of arithmetic operations.
+Originally called infinitesimal calculus or "the calculus of infinitesimals", it has two major branches, differential calculus and integral calculus. The former concerns instantaneous rates of change, and the slopes of curves, while the latter concerns accumulation of quantities, and areas under or between curves. These two branches are related to each other by the fundamental theorem of calculus. They make use of the fundamental notions of convergence of infinite sequences and infinite series to a well-defined limit.
+Infinitesimal calculus was developed independently in the late 17th century by Isaac Newton and Gottfried Wilhelm Leibniz. Later work, including codifying the idea of limits, put these developments on a more solid conceptual footing. Today, calculus has widespread uses in science, engineering, and social science.
+Link 82: Cambridge University Press
+Link: Cambridge University Press
+https://en.wikipedia.org/wiki/Cambridge_University_Press
+Summary: Cambridge University Press is the university press of the University of Cambridge. Granted a letters patent by King Henry VIII in 1534, it is the oldest university press in the world. It is also the King's Printer.
+Cambridge University Press is a department of the University of Cambridge, and is both an academic and an educational publisher. It became part of Cambridge University Press & Assessment, following a merger with Cambridge Assessment in 2021. With a global sales presence, publishing hubs, and offices in more than 40 countries, it publishes over 50,000 titles by authors from over 100 countries. Its publications include more than 420 academic journals, monographs, reference works, school and university textbooks, and English language teaching and learning publications. It also publishes Bibles, runs a bookshop in Cambridge, sells through Amazon, and has a conference venues business in Cambridge at the Pitt Building and the Sir Geoffrey Cass Sports and Social Centre.
+Because it is part of the University of Cambridge, Cambridge University Press is non-profit organization.
+Link 83: Carl Størmer
+Link: Carl Størmer
+https://en.wikipedia.org/wiki/Carl_St%C3%B8rmer
+Summary: Fredrik Carl Mülertz Størmer (3 September 1874 – 13 August 1957) was a Norwegian mathematician and astrophysicist. In mathematics, he is known for his work in number theory, including the calculation of π and Størmer's theorem on consecutive smooth numbers. In physics, he is known for studying the movement of charged particles in the magnetosphere and the formation of aurorae, and for his book on these subjects, From the Depths of Space to the Heart of the Atom. He worked for many years as a professor of mathematics at the University of Oslo in Norway. A crater on the far side of the Moon is named after him.
+Link 84: Carlyle Smith Beals
+Link: Carlyle Smith Beals
+https://en.wikipedia.org/wiki/Carlyle_S._Beals
+Summary: Carlyle Smith Beals,  FRS (June 29, 1899 – July 2, 1979) was a Canadian astronomer.
+Link 85: Carmonette
+Link: Carmonette
+https://en.wikipedia.org/wiki/Carmonette
+Summary: CARMONETTE (Combined ARms Computer MOdel) is a 1953 mainframe computer Monte Carlo simulation developed by the US Operations Research Office (ORO). While the first computerized simulation of conventional combat was "Air Defense Simulation", developed by the Army Operations Research Office at Johns Hopkins University in 1948, the Carmonette series was a later variant of the genre, featuring ground combat at the levels of the individual soldier and company. The principal architect of Carmonette was Richard E. Zimmerman.
+It was followed by CARMONETTE II which included infantry (1960–1965); CARMONETTE III which added armed helicopter support (1966–1970); also CARMONETTE IV added communications and night vision.
+Piero Scaruffi described it as the  first digital computer game.
+
+
+== References ==
+Link 86: Cathode-ray tube amusement device
+Link: Cathode-ray tube amusement device
+https://en.wikipedia.org/wiki/Cathode-ray_tube_amusement_device
+Summary: The cathode-ray tube amusement device is the earliest known interactive electronic game as well as the first game to incorporate an electronic display. The device simulates an artillery shell arcing towards targets on a cathode-ray tube (CRT) screen, which is controlled by the player by adjusting knobs to change the trajectory of a CRT beam spot on the display in order to reach plastic targets overlaid on the screen. Thomas T. Goldsmith Jr. and Estle Ray Mann constructed the game from analog electronics and filed for a patent in 1947, which was issued the following year. The gaming device was never manufactured or marketed to the public, so it had no effect on the future video game industry. Under many definitions, the device is not considered a video game, as while it had an electronic display it did not run on a computing device. Therefore, despite its relevance to the early history of video games, it is not generally considered a candidate for the title of the first video game.
+Link 87: Central limit theorem
+Link: Central limit theorem
+https://en.wikipedia.org/wiki/Central_limit_theorem
+Summary: In probability theory, the central limit theorem (CLT) states that, under appropriate conditions, the distribution of a normalized version of the sample mean converges to a standard normal distribution. This holds even if the original variables themselves are not normally distributed. There are several versions of the CLT, each applying in the context of different conditions.
+The theorem is a key concept in probability theory because it implies that probabilistic and statistical methods that work for normal distributions can be applicable to many problems involving other types of distributions.
+This theorem has seen many changes during the formal development of probability theory. Previous versions of the theorem date back to 1811, but in its modern general form, this fundamental result in probability theory was precisely stated as late as 1920, thereby serving as a bridge between classical and modern probability theory.
+An elementary form of the theorem states the following. Let 
+  
+    
+      
+        
+          X
+          
+            1
+          
+        
+        ,
+        
+          X
+          
+            2
+          
+        
+        ,
+        …
+        ,
+        
+          X
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X_{1},X_{2},\dots ,X_{n}}
+  
+ denote a random sample of 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+ independent observations from a population with overall expected value (average) 
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  
+ and finite variance 
+  
+    
+      
+        
+          σ
+          
+            2
+          
+        
+      
+    
+    {\displaystyle \sigma ^{2}}
+  
+, and let 
+  
+    
+      
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\bar {X}}_{n}}
+  
+ denote the sample mean of that sample (which is itself a random variable). Then the limit as 
+  
+    
+      
+        n
+        →
+        ∞
+      
+    
+    {\displaystyle n\to \infty }
+  
+ of the distribution of 
+  
+    
+      
+        (
+        
+          
+            
+              
+                X
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+        −
+        μ
+        )
+        
+          /
+        
+        
+          σ
+          
+            
+              
+                
+                  
+                    X
+                    ¯
+                  
+                
+              
+              
+                n
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle ({\bar {X}}_{n}-\mu )/\sigma _{{\bar {X}}_{n}},}
+  
+ where 
+  
+    
+      
+        
+          σ
+          
+            
+              
+                
+                  
+                    X
+                    ¯
+                  
+                
+              
+              
+                n
+              
+            
+          
+        
+        =
+        σ
+        
+          /
+        
+        
+          
+            n
+          
+        
+        ,
+      
+    
+    {\displaystyle \sigma _{{\bar {X}}_{n}}=\sigma /{\sqrt {n}},}
+  
+ is the standard normal distribution.
+In other words, suppose that a large sample of observations is obtained, each observation being randomly produced in a way that does not depend on the values of the other observations, and that the average (arithmetic mean) of the observed values is computed. If this procedure is performed many times, resulting in a collection of observed averages, the central limit theorem says that if the sample size was large enough, the probability distribution of these averages will closely approximate a normal distribution.
+The central limit theorem has several variants. In its common form, the random variables must be independent and identically distributed (i.i.d.). This requirement can be weakened; convergence of the mean to the normal distribution also occurs for non-identical distributions or for non-independent observations if they comply with certain conditions.
+The earliest version of this theorem, that the normal distribution may be used as an approximation to the binomial distribution, is the de Moivre–Laplace theorem.
+Link 88: Channel 4
+Link: Channel 4
+https://en.wikipedia.org/wiki/Channel_4
+Summary: Channel 4 is a British free-to-air public broadcast television channel owned and operated by Channel Four Television Corporation. It is publicly owned but, unlike the BBC, it receives no public funding and is funded entirely by its commercial activities, including advertising. It began its transmission in 1982 and was established to provide a fourth television service in the United Kingdom. At the time, the only other channels were the licence-funded BBC1 and BBC2, and a single commercial broadcasting network, ITV.
+Originally a subsidiary of the Independent Broadcasting Authority (IBA), the station is now owned and operated by Channel Four Television Corporation, a public corporation of the Department for Culture, Media and Sport, which was established in 1990 and came into operation in 1993. Until 2010, Channel 4 did not broadcast in Wales, but many of its programmes were re-broadcast there by the Welsh fourth channel S4C. In 2010, Channel 4 extended service into Wales and became a nationwide television channel. The network's headquarters are in London and Leeds, with creative hubs in Glasgow and Bristol.
+Link 89: Charles Babbage
+Link: Charles Babbage
+https://en.wikipedia.org/wiki/Charles_Babbage
+Summary: Charles Babbage  (; 26 December 1791 – 18 October 1871) was an English polymath. A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.
+Babbage is considered by some to be "father of the computer". He is credited with inventing the first mechanical computer, the Difference Engine, that eventually led to more complex electronic designs, though all the essential ideas of modern computers are to be found in his Analytical Engine, programmed using a principle openly borrowed from the Jacquard loom. Babbage had a broad range of interests in addition to his work on computers covered in his 1832 book Economy of Manufactures and Machinery. He was an important figure in the social scene in London, and is credited with importing the "scientific soirée" from France with his well-attended Saturday evening soirées. His varied work in other fields has led him to be described as "pre-eminent" among the many polymaths of his century.
+Babbage, who died before the complete successful engineering of many of his designs, including his Difference Engine and Analytical Engine, remained a prominent figure in the ideating of computing. Parts of his incomplete mechanisms are on display in the Science Museum in London. In 1991, a functioning difference engine was constructed from the original plans. Built to tolerances achievable in the 19th century, the success of the finished engine indicated that Babbage's machine would have worked.
+Link 90: Charles Babbage Institute
+Link: Charles Babbage Institute
+https://en.wikipedia.org/wiki/IT_History_Society
+Summary: The IT History Society (ITHS) is an organization that supports the history and scholarship of information technology by encouraging, fostering, and facilitating archival and historical research. Formerly known as the Charles Babbage Foundation, it advises historians, promotes collaboration among academic organizations and museums, and assists IT corporations in preparing and archiving their histories for future studies.
+Link 91: Charles E. Merrill
+Link: Charles E. Merrill
+https://en.wikipedia.org/wiki/Charles_E._Merrill
+Summary: Charles Edward Merrill (October 19, 1885 – October 6, 1956) was an American philanthropist, stockbroker, and co-founder, with Edmund C. Lynch, of Merrill Lynch (previously called Charles E. Merrill & Co.).
+Link 92: Charles Lindbergh
+Link: Charles Lindbergh
+https://en.wikipedia.org/wiki/Charles_Lindbergh
+Summary: Charles Augustus Lindbergh (February 4, 1902 – August 26, 1974) was an American aviator and military officer. On May 20–21, 1927, he made the first nonstop flight from New York City to Paris, a distance of 3,600 miles (5,800 km), flying alone for 33.5 hours. His aircraft, the Spirit of St. Louis, was designed and built to compete for the $25,000 Orteig Prize for the first flight between the two cities. Although not the first transatlantic flight, it was the longest at the time by nearly 2,000 miles (3,200 km) and the first solo transatlantic flight. It became known as one of the most consequential flights in history and ushered in a new era of air transportation between parts of the globe.
+Lindbergh was raised mostly in Little Falls, Minnesota, and Washington, D.C., the son of prominent U.S. Congressman Charles August Lindbergh. He became a U.S. Army Air Service cadet in 1924, earning the rank of second lieutenant in 1925. Later that year, he was hired as a U.S. Air Mail pilot in the Greater St. Louis area, where he began to prepare for his historic 1927 transatlantic flight. For his flight, President Calvin Coolidge presented Lindbergh both the Distinguished Flying Cross and Medal of Honor, the highest U.S. military award. He also earned the highest French order of merit, the Legion of Honor. In July 1927, he was promoted to the rank of colonel in the U.S. Army Air Corps Reserve. His achievement spurred significant global interest in both commercial aviation and air mail, which revolutionized the aviation industry worldwide (a phenomenon dubbed the "Lindbergh boom"), and he spent much time promoting these industries.
+Time magazine honored Lindbergh as its first Man of the Year in 1928, President Herbert Hoover appointed him to the National Advisory Committee for Aeronautics in 1929, and he received the Congressional Gold Medal in 1930. In 1931, he and French surgeon Alexis Carrel began work on inventing the first perfusion pump, a device credited with making future heart surgeries and organ transplantation possible.
+On March 1, 1932, Lindbergh's first-born infant child, Charles Jr., was kidnapped and murdered in what the American media called the "Crime of the Century". The case prompted the United States Congress to establish kidnapping as a federal crime if a kidnapper crosses state lines with a victim. By late 1935, the press and hysteria surrounding the case had driven the Lindbergh family into exile in Europe, from where they returned in 1939.
+In the months before the United States entered World War II, Lindbergh's non-interventionist stance and statements about Jews and race led some to believe he was a Nazi sympathizer, although Lindbergh never publicly stated support for the Nazis and condemned them several times in both his public speeches and personal diary. However, like many Americans before the attack on Pearl Harbor, he opposed not only the military intervention of the U.S. but also the provision of military supplies to the British. He supported the isolationist America First Committee and resigned from the U.S. Army Air Corps in April 1941 after President Franklin Roosevelt publicly rebuked him for his views. In September 1941, Lindbergh gave a significant address, titled "Speech on Neutrality", outlining his position and arguments against greater American involvement in the war.
+Following the Japanese attack on Pearl Harbor and German declaration of war against the U.S., Lindbergh avidly supported the American war effort but was rejected for active duty, as Roosevelt refused to restore his Air Corps colonel's commission. Instead he flew 50 combat missions in the Pacific Theater as a civilian consultant and was unofficially credited with shooting down an enemy aircraft. In 1954, President Dwight Eisenhower restored his commission and promoted him to brigadier general in the U.S. Air Force Reserve. In his later years, he became a Pulitzer Prize-winning author, international explorer and environmentalist, helping to establish national parks in the U.S. and protect certain endangered species and tribal people in both the Philippines and east Africa. In 1974, Lindbergh died of lymphoma at age 72.
+Link 93: Charlie Chaplin
+Link: Charlie Chaplin
+https://en.wikipedia.org/wiki/Charlie_Chaplin
+Summary: Sir Charles Spencer Chaplin  (16 April 1889 – 25 December 1977) was an English comic actor, filmmaker, and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from childhood in the Victorian era until a year before his death in 1977, and encompassed both adulation and controversy.
+Chaplin's childhood in London was one of poverty and hardship. His father was absent and his mother struggled financially—he was sent to a workhouse twice before age nine. When he was 14, his mother was committed to a mental asylum. Chaplin began performing at an early age, touring music halls and later working as a stage actor and comedian. At 19, he was signed to the Fred Karno company, which took him to the United States. He was scouted for the film industry and began appearing in 1914 for Keystone Studios. He soon introduced and adopted the Tramp as his screen persona. He directed his own films and continued to hone his craft as he moved to Essanay Studios, where the Tramp persona was developed emotionally in The Tramp (1915). He then attracted a large fanbase and demanded more money as he moved to Mutual and First National corporations. By 1918, he was one of the world's well-paid and best-known figures.
+In 1919, Chaplin co-founded the distribution company United Artists, which gave him complete control over his films. His first feature-length film was The Kid (1921), followed by A Woman of Paris (1923), The Gold Rush (1925), and The Circus (1928). He initially refused to move to sound films in the 1930s, instead producing City Lights (1931) and Modern Times (1936) without dialogue. His first sound film was The Great Dictator (1940), which satirised Adolf Hitler. The 1940s were marked with controversy for Chaplin, and his popularity declined rapidly. He was accused of communist sympathies, and some members of the press and public were scandalised by his involvement in a paternity suit and marriages to much younger women. An FBI investigation was opened, and Chaplin was forced to leave the U.S. and settle in Switzerland. He abandoned the Tramp in his later films, which include Monsieur Verdoux (1947), Limelight (1952), A King in New York (1957), and A Countess from Hong Kong (1967).
+Chaplin wrote, directed, produced, edited, starred in, and composed the music for most of his films. He was a perfectionist, and his financial independence enabled him to spend years on the development and production of a picture. His films are characterised by slapstick combined with pathos, typified in the Tramp's struggles against adversity. Many contain social and political themes, as well as autobiographical elements. He received an Honorary Academy Award for "the incalculable effect he has had in making motion pictures the art form of this century" in 1972, as part of a renewed appreciation for his work. He continues to be held in high regard, with The Gold Rush, City Lights, Modern Times, and The Great Dictator often ranked on lists of the greatest films.
+Link 94: Chatrapur
+Link: Chatrapur
+https://en.wikipedia.org/wiki/Chhatrapur
+Summary: Chhatrapur (ଛତ୍ରପୁର) is a town and a Municipality in Ganjam district in the state of Odisha, India.
+Link 95: Che Guevara
+Link: Che Guevara
+https://en.wikipedia.org/wiki/Che_Guevara
+Summary: Ernesto "Che" Guevara (Spanish: [ˈtʃe ɣeˈβaɾa]; 14 June 1928 – 9 October 1967) was an Argentine Marxist revolutionary, physician, author, guerrilla leader, diplomat, and military theorist. A major figure of the Cuban Revolution, his stylized visage has become a ubiquitous countercultural symbol of rebellion and global insignia in popular culture.
+As a young medical student, Guevara traveled throughout South America and was appalled by the poverty, hunger, and disease he witnessed. His burgeoning desire to help overturn what he saw as the capitalist exploitation of Latin America by the United States prompted his involvement in Guatemala's social reforms under President Jacobo Árbenz, whose eventual CIA-assisted overthrow at the behest of the United Fruit Company solidified Guevara's political ideology. Later in Mexico City, Guevara met Raúl and Fidel Castro, joined their 26th of July Movement, and sailed to Cuba aboard the yacht Granma with the intention of overthrowing US-backed dictator Fulgencio Batista. Guevara soon rose to prominence among the insurgents, was promoted to second-in-command, and played a pivotal role in the two-year guerrilla campaign that deposed the Batista regime.
+After the Cuban Revolution, Guevara played key roles in the new government. These included reviewing the appeals and firing squads for those convicted as war criminals during the revolutionary tribunals, instituting agrarian land reform as minister of industries, helping spearhead a successful nationwide literacy campaign, serving as both president of the National Bank and instructional director for Cuba's armed forces, and traversing the globe as a diplomat on behalf of Cuban socialism. Such positions also allowed him to play a central role in training the militia forces who repelled the Bay of Pigs Invasion, and bringing Soviet nuclear-armed ballistic missiles to Cuba, which preceded the 1962 Cuban Missile Crisis. Additionally, Guevara was a prolific writer and diarist, composing a seminal guerrilla warfare manual, along with a best-selling memoir about his youthful continental motorcycle journey. His experiences and studying of Marxism–Leninism led him to posit that the Third World's underdevelopment and dependence was an intrinsic result of imperialism, neocolonialism, and monopoly capitalism, with the only remedies being proletarian internationalism and world revolution. Guevara left Cuba in 1965 to foment continental revolutions across both Africa and South America, first unsuccessfully in Congo-Kinshasa and later in Bolivia, where he was captured by CIA-assisted Bolivian forces and summarily executed.
+Guevara remains both a revered and reviled historical figure, polarized in the collective imagination in a multitude of biographies, memoirs, essays, documentaries, songs, and films. As a result of his perceived martyrdom, poetic invocations for class struggle, and desire to create the consciousness of a "new man" driven by moral rather than material incentives, Guevara has evolved into a quintessential icon of various leftist movements. In contrast, his critics on the political right accuse him of promoting authoritarianism and endorsing violence against his political opponents. Despite disagreements on his legacy, Time named him one of the 100 most influential people of the 20th century, while an Alberto Korda photograph of him, titled Guerrillero Heroico, was cited by the Maryland Institute College of Art as "the most famous photograph in the world".
+Link 96: Chemical castration
+Link: Chemical castration
+https://en.wikipedia.org/wiki/Chemical_castration
+Summary: Chemical castration is castration via anaphrodisiac drugs, whether to reduce libido and sexual activity, to treat cancer, or otherwise. Unlike surgical castration, where the gonads are removed through an incision in the body, chemical castration does not remove organs and is not a form of sterilization. 
+Chemical castration is generally reversible when treatment is discontinued, although permanent effects in body chemistry can sometimes be seen, as in the case of bone density loss increasing with length of use of depot medroxyprogesterone acetate (DMPA). In men, chemical castration reduces sex drive and the capacity for sexual arousal, side effects of some drugs may include depression, suicide ideations, hot flashes, anemia, infertility, increase in body fat and higher risks of cardiovascular diseases and osteoporosis. In women, chemical castration acts by decreasing testosterone levels in order to lower their sex drive, side effects include the deflation of breast glands, expansion of the size of the nipple and shrinking of bone mass. 
+
+In some jurisdictions, chemical castration has been used to reduce the libido of sexual offenders. The effectiveness of chemical castration in decreasing recidivism among sex offenders is controversial.
+Link 97: Chemical oscillator
+Link: Chemical oscillator
+https://en.wikipedia.org/wiki/Chemical_oscillator
+Summary: In chemistry, a chemical oscillator is a complex mixture of reacting chemical compounds in which the concentration of one or more components exhibits periodic changes. They are a class of reactions that serve as an example of non-equilibrium thermodynamics with far-from-equilibrium behavior. The reactions are theoretically important in that they show that chemical reactions do not have to be dominated by equilibrium thermodynamic behavior.
+In cases where one of the reagents has a visible color, periodic color changes can be observed. Examples of oscillating reactions are the Belousov–Zhabotinsky reaction (BZ reaction), the Briggs–Rauscher reaction, and the Bray–Liebhafsky reaction.
+Link 98: Chess
+Link: Chess
+https://en.wikipedia.org/wiki/Chess
+Summary: Chess is a board game for two players. It is sometimes called international chess or Western chess to distinguish it from related games such as xiangqi (Chinese chess) and shogi (Japanese chess).
+Chess is an abstract strategy game that involves no hidden information and no elements of chance. It is played on a chessboard with 64 squares arranged in an 8×8 grid. The players, referred to as "White" and "Black", each control sixteen pieces: one king, one queen, two rooks, two bishops, two knights, and eight pawns. White moves first, followed by Black. The game is won by checkmating the opponent's king, i.e. threatening it with inescapable capture. There are several ways a game can end in a draw.
+The recorded history of chess goes back at least to the emergence of a similar game, chaturanga, in seventh-century India. The rules of chess as they are known today emerged in Europe at the end of the 15th century, with standardization and universal acceptance by the end of the 19th century. Today, chess is one of the world's most popular games and is played by millions of people worldwide.
+Organized chess arose in the 19th century. Chess competition today is governed internationally by FIDE (Fédération Internationale des Échecs; the International Chess Federation). The first universally recognized World Chess Champion, Wilhelm Steinitz, claimed his title in 1886; Ding Liren is the current World Champion.
+A huge body of chess theory has developed since the game's inception. Aspects of art are found in chess composition, and chess in its turn influenced Western culture and the arts, and has connections with other fields such as mathematics, computer science, and psychology. One of the goals of early computer scientists was to create a chess-playing machine. In 1997, Deep Blue became the first computer to beat the reigning World Champion in a match when it defeated Garry Kasparov. Today's chess engines are significantly stronger than the best human players and have deeply influenced the development of chess theory; however, chess is not a solved game.
+Link 99: Chess (Northwestern University)
+Link: Chess (Northwestern University)
+https://en.wikipedia.org/wiki/Chess_(Northwestern_University)
+Summary: Chess was a pioneering chess program from the 1970s, written by Larry Atkin, David Slate and Keith Gorlen at Northwestern University. Chess ran on Control Data Corporation's line of supercomputers. Work on the program began in 1968 while the authors were graduate students at the university. The first competitive version was Chess 2.0 which gradually evolved to Chess 3.6 and was rewritten as the 4.x series. It dominated the first computer chess tournaments, such as the World Computer Chess Championship and ACM's North American Computer Chess Championship. At the ACM event, Chess won eight of the ten tournaments held from 1970 to 1979. NWU Chess adopted several innovative or neglected techniques including bitboard data structures, iterative deepening, transposition tables, and an early form of forward pruning later called futility pruning. The 4.x versions were the first programs to abandon selective search in favor of full-width fixed-depth searching.
+In 1976, Chess 4.5 won the Class B section of the Paul Masson American Class Championships, the first time a computer was successful in a human tournament. The performance rating was 1950.
+In February 1977, Chess 4.6, the only computer entry, surprised observers by winning the 84th Minnesota Open against competitors just under Master level. It achieved a USCF rating close to or at Expert, higher than previous programs' Class C or D, by winning five games and losing none. Stenberg (rated 1969) became the second Class A player to lose to a computer in a tournament game, the first being Jola.
+Because of its Minnesota victory, grandmaster Walter Browne invited Chess 4.6 on a CDC Cyber 176 to his simultaneous chess exhibition; to Browne and others' surprise, Chess 4.6 defeated the United States chess champion. Also in 1977, Chess 4.6 won the second World Computer Chess Championship in Toronto, ahead of 15 other programs including KAISSA; Chess 4 had finished in second place to KAISSA at the first tournament in 1974. The favorite to win the tournament, like all but one other entry Chess 4.6 ran on a computer located away from the tournament; despite losing 90 minutes to hardware failure at the start of its first match the program rapidly defeated its opponent in 27 moves, earlier than any other first-round match. Chess 4.6 was capable of defeating 99.5% of United States Chess Federation-rated players under tournament conditions, and was stronger in blitz chess.
+In 1978, the improved Chess 4.7—which had by now achieved a 2030 rating after 31 tournament games—played against David Levy who, in 1968 had wagered that he would not be beaten by a computer within ten years. Whereas Chess 4.7 had beaten Levy under blitz conditions, the bet involved forty moves over a two-hour period, the computer's choices being relayed by telephone from Minnesota to the board. Levy won the bet convincingly, defeating Chess 4.7 in a six-game match by a score of 4.5-1.5, The computer scored a draw in game two after getting a completely winning position but being outplayed by Levy in the endgame, and a win in game four—the first computer victory against a human master—when Levy essayed the very sharp, dubious Latvian Gambit. Levy wrote, "I had proved that my 1968 assessment had been correct, but on the other hand my opponent in this match was very, very much stronger than I had thought possible when I started the bet." He observed that, "Now nothing would surprise me (very much)." International Master Edward Lasker stated in 1978, "My contention that computers cannot play like a master, I retract. They play absolutely alarmingly. I know, because I have lost games to 4.7."
+The last revision of the program was Chess 4.9 in 1979. It won the 10th ACM North American Computer Chess Championship tournament in Detroit and played at the expert level (2100). David  Slate, with William Blanchard of Vogelback Computing Center at Northwestern University, later wrote a new program in Fortran, originally dubbed "Chess 5.0", but later renamed Nuchess.  It competed from 1980 to 1984 but was never the dominating force of its predecessor. Its best competitive result was a second place finish in the 1981 North American Computer Chess Championship. During the 1980's the software paradigm of chess dominance gave way to specialized chess hardware machines like Belle, HiTech, and Chiptest, and the Northwestern series of programs was retired from competition after 1984.
+In 1978 and 1979, Atkin and Peter W. Frey published in BYTE a series on computer chess programming, including the Pascal source for Chess 0.5, a chess engine suitable for microcomputers.
+Atkin, Slate, and Frey later wrote microcomputer chess, checkers, and Reversi programs for Odesta. Advertisements cited their Northwestern affiliation and authorship of Chess 4.7, "World Computer Chess Champion, 1977-1980".
+Link 100: Chia seed
+Link: Chia seed
+https://en.wikipedia.org/wiki/Chia_seed
+Summary: Chia seeds are the edible seeds of Salvia hispanica, a flowering plant in the mint family (Lamiaceae) native to central and southern Mexico, or of the related Salvia columbariae, Salvia polystachia, or Salvia tiliifolia. Chia seeds are oval and gray with black and white spots, having a diameter of around 2 millimetres (0.08 in). The seeds are hygroscopic, absorbing up to 12 times their weight in liquid when soaked and developing a mucilaginous coating that gives chia-based foods and beverages a distinctive gel texture.
+There is evidence that the crop was widely cultivated by the Aztecs in pre-Columbian times and was a staple food for Mesoamerican cultures. Chia seeds are cultivated on a small scale in their ancestral homeland of central Mexico and Guatemala and commercially throughout Central and South America.
+Total links processed: 100
+URLs:
+https://en.wikipedia.org/wiki/1926_United_Kingdom_general_strike
+https://en.wikipedia.org/wiki/Automatic_Computing_Engine
+https://en.wikipedia.org/wiki/Abraham_Wald
+https://en.wikipedia.org/wiki/Abram_Besicovitch
+https://en.wikipedia.org/wiki/Action_This_Day_(memo)
+https://en.wikipedia.org/wiki/Ada_Lovelace
+https://en.wikipedia.org/wiki/Adele_Goldstine
+https://en.wikipedia.org/wiki/Adolf_Hitler
+https://en.wikipedia.org/wiki/Akio_Morita
+https://en.wikipedia.org/wiki/Alan_Turing:_The_Enigma
+https://en.wikipedia.org/wiki/Alan_Turing_law
+https://en.wikipedia.org/wiki/Albert_Einstein
+https://en.wikipedia.org/wiki/Albert_Neuberger
+https://en.wikipedia.org/wiki/Alexander_Fleming
+https://en.wikipedia.org/wiki/Alfred_D._Chandler_Jr.
+https://en.wikipedia.org/wiki/Alfred_Ubbelohde
+https://en.wikipedia.org/wiki/Algorithm
+https://en.wikipedia.org/wiki/Alick_Glennie
+https://en.wikipedia.org/wiki/Alonzo_Church
+https://en.wikipedia.org/wiki/Amadeo_Giannini
+https://en.wikipedia.org/wiki/American_Journal_of_Mathematics
+https://en.wikipedia.org/wiki/American_Physical_Society
+https://en.wikipedia.org/wiki/Amnesty_law
+https://en.wikipedia.org/wiki/Andrei_Sakharov
+https://en.wikipedia.org/wiki/Andrew_Hodges
+https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer)
+https://en.wikipedia.org/wiki/Anglo-Irish_people
+https://en.wikipedia.org/wiki/Anne_Frank
+https://en.wikipedia.org/wiki/Anthony_Cave_Brown
+https://en.wikipedia.org/wiki/Aretha_Franklin
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://en.wikipedia.org/wiki/Asa_Briggs
+https://en.wikipedia.org/wiki/Astronomer_Royal
+https://en.wikipedia.org/wiki/Atheism
+https://en.wikipedia.org/wiki/Autocatalysis
+https://en.wikipedia.org/wiki/Automatic_Computing_Engine
+https://en.wikipedia.org/wiki/Axis_powers
+https://en.wikipedia.org/wiki/BBC_News
+https://en.wikipedia.org/wiki/Bachelor_of_Arts
+https://en.wikipedia.org/wiki/Ballsbridge
+https://en.wikipedia.org/wiki/Hartley_(unit)
+https://en.wikipedia.org/wiki/Banburismus
+https://en.wikipedia.org/wiki/Bank_of_England_%C2%A350_note
+https://en.wikipedia.org/wiki/Baronet
+https://en.wikipedia.org/wiki/Bart_Simpson
+https://en.wikipedia.org/wiki/Baston_Lodge
+https://en.wikipedia.org/wiki/Battle_of_the_Atlantic
+https://en.wikipedia.org/wiki/Beatrice_Worsley
+https://en.wikipedia.org/wiki/Bell_Labs
+https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction
+https://en.wikipedia.org/wiki/Ben_Wallace_(politician)
+https://en.wikipedia.org/wiki/Bendix_G-15
+https://en.wikipedia.org/wiki/Bengal_Army
+https://en.wikipedia.org/wiki/Bertie_the_Brain
+https://en.wikipedia.org/wiki/Betty_Holberton
+https://en.wikipedia.org/wiki/Bibcode
+https://en.wikipedia.org/wiki/Bill_Gates
+https://en.wikipedia.org/wiki/Bill_W.
+https://en.wikipedia.org/wiki/Billy_Graham
+https://en.wikipedia.org/wiki/Binary_multiplier
+https://en.wikipedia.org/wiki/Biographical_Memoirs_of_Fellows_of_the_Royal_Society
+https://en.wikipedia.org/wiki/Birth_name
+https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)
+https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+https://en.wikipedia.org/wiki/Blackpool_Pleasure_Beach
+https://en.wikipedia.org/wiki/Bletchley_Park
+https://en.wikipedia.org/wiki/Blue_plaque
+https://en.wikipedia.org/wiki/Bob_Dylan
+https://en.wikipedia.org/wiki/Bomba_(cryptography)
+https://en.wikipedia.org/wiki/Bombe
+https://en.wikipedia.org/wiki/Boris_Belousov_(chemist)
+https://en.wikipedia.org/wiki/Mycobacterium_bovis
+https://en.wikipedia.org/wiki/Brian_Kernighan
+https://en.wikipedia.org/wiki/Brian_Oakley
+https://en.wikipedia.org/wiki/Brian_Randell
+https://en.wikipedia.org/wiki/British_Army
+https://en.wikipedia.org/wiki/House_of_Lords
+https://en.wikipedia.org/wiki/British_Raj
+https://en.wikipedia.org/wiki/Bruce_Lee
+https://en.wikipedia.org/wiki/CAPTCHA
+https://en.wikipedia.org/wiki/Calculus
+https://en.wikipedia.org/wiki/Cambridge_University_Press
+https://en.wikipedia.org/wiki/Carl_St%C3%B8rmer
+https://en.wikipedia.org/wiki/Carlyle_S._Beals
+https://en.wikipedia.org/wiki/Carmonette
+https://en.wikipedia.org/wiki/Cathode-ray_tube_amusement_device
+https://en.wikipedia.org/wiki/Central_limit_theorem
+https://en.wikipedia.org/wiki/Channel_4
+https://en.wikipedia.org/wiki/Charles_Babbage
+https://en.wikipedia.org/wiki/IT_History_Society
+https://en.wikipedia.org/wiki/Charles_E._Merrill
+https://en.wikipedia.org/wiki/Charles_Lindbergh
+https://en.wikipedia.org/wiki/Charlie_Chaplin
+https://en.wikipedia.org/wiki/Chhatrapur
+https://en.wikipedia.org/wiki/Che_Guevara
+https://en.wikipedia.org/wiki/Chemical_castration
+https://en.wikipedia.org/wiki/Chemical_oscillator
+https://en.wikipedia.org/wiki/Chess
+https://en.wikipedia.org/wiki/Chess_(Northwestern_University)
+https://en.wikipedia.org/wiki/Chia_seed
