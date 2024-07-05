@@ -29,7 +29,7 @@ You can run the notebooks directly from the table below:
  **Chapter 7, Building Scalable Knowledge Graph-based RAG with Wikipédia and LlamaIndex**
 | <ul><li>Tree_2_Graph.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter07/Tree_2_Graph.ipynb)|
 | <ul><li>Wikipedia_API.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter07/Wikipedia_API.ipynb)|
-| <ul><li>Knowledge_Graph_ Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter07/Knowledge_Graph_Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb)|
+| <ul><li>Knowledge_Graph__Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter07/Knowledge_Graph__Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb)|
  **Chapter 8, Dynamic RAG with Chroma and Hugging Face Llama**
 | <ul><li>Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter08/Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb)|
  **Chapter 9, Empowering AI Models: Fine-Tuning RAG Data and Human Feedback**
