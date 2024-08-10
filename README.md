@@ -2,7 +2,7 @@
 by Denis Rothman <br><br>
 <img src="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/RAG_GENAI.png?raw=tru" alt="drawing" height='400' width="340"/>
 
-Last updated: July 7, 2024  
+Last updated: August 10, 2024  
 
 ### Platforms
 You can run the notebooks directly from the table below:
