@@ -33,7 +33,7 @@ You can run the notebooks directly from the table below:
  **Chapter 8, Dynamic RAG with Chroma and Hugging Face Llama**
 | <ul><li>Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter08/Dynamic_RAG_with_Chroma_and_Hugging_Face.ipynb)|
  **Chapter 9, Empowering AI Models: Fine-Tuning RAG Data and Human Feedback**
-| <ul><li>Fine_tuning_GPT-4o-mini.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter09/Fine_tuning_GPT-4o-mini.ipynb)|
+| <ul><li>Fine_tuning_OpenAI_GPT-4o-mini.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter09/Fine_tuning_OpenAI_GPT-4o-mini.ipynb)|
  **Chapter 10, RAG for Video Stock Production with Pinecone and OpenAI**
 | <ul><li>Video_dataset_visualization.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Video_dataset_visualization.ipynb)  |
 | <ul><li>Pipeline_1_The_Generator_and_the_Commentator.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter10/Pipeline_1_The_Generator_and_the_Commentator.ipynb)  |
