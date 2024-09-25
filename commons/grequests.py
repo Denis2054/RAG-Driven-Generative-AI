@@ -1,7 +1,7 @@
 import subprocess
 import os
 
-def download(directory, filename, private_token):
+def download(directory, filename):
     # The base URL of the image files in the GitHub repository
     base_url = 'https://raw.githubusercontent.com/Denis2054/RAG-Driven-Generative-AI/main/'
 
@@ -11,7 +11,7 @@ def download(directory, filename, private_token):
     # Use curl to download the file, including an Authorization header for the private token
     try:
         # Prepare the curl command with the Authorization header
-        curl_command = f'curl -H "Authorization: token {private_token}" -o {filename} {file_url}'
+        curl_command = f'curl -o {filename} {file_url}'
 
         # Execute the curl command
         subprocess.run(curl_command, check=True, shell=True)
