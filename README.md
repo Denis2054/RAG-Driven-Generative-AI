@@ -110,12 +110,12 @@ Some of the modules are as follows:
 | Modules              | Version                                      |
 |----------------------|----------------------------------------------|
 | `deeplake`           | `3.9.18 (with Pillow)`                       |
-| `openai`             | `1.40.3 (requires regular upgrades)`        |
-| `transformers`       | `4.41.2`                                    |
-| `numpy`              | `>=1.24.1 (Upgraded to satisfy chex)`      |
-| `deepspeed`          | `0.10.1`                                    |
+| `openai`             | `1.40.3'                                      |
+| `transformers`       | `4.41.2`                                     |
+| `numpy`              | `>=1.24.1'                                   |
+| `deepspeed`          | `0.10.1`                                     |
 
-**Note:** This GitHub repository will be continually maintained and updated as the platforms evolve. As such, the versions will evolve in time so that you will always have access to state-of-art programs!
+**Note:** This GitHub repository will be continually maintained and updated as the platforms evolve. As such, the versions will evolve in time in this repo so that you will always have access to state-of-art programs!
 
 <details> 
   <summary><h2>Get to know Author</h2></summary>
