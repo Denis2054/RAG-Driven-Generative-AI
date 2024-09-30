@@ -53,8 +53,9 @@ You'll be exposed to a hands-on blend of frameworks like LlamaIndex and Deep Lak
 <details open> 
   <summary><h2>Chapters</summary>
 
-This repo is continually updated and upgraded.   
-🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!   
+**This repo is continually updated and upgraded.**    
+📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md).    
+🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!      
 
 ### Platforms
 You can run the notebooks directly from the table below:
