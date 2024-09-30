@@ -109,13 +109,14 @@ You can run the notebooks directly from the table below:
 You should have basic **Natural Processing Language** (**NLP**) knowledge and some experience with Python. Additionally, most of the programs in this book are provided as Jupyter notebooks. To run them, all you need is a free Google Gmail account, allowing you to execute the notebooks on Google Colaboratory’s free **virtual machine** (**VM**). You will also need to generate API tokens for OpenAI, Activeloop, and Pinecone.
 You might require to download modules while running the notebooks or you can simply run the ``requirements_01.txt`` file in the ``env`` you create.
 Some of the modules are as follows:
-| Modules              | Version                                      |
-|----------------------|----------------------------------------------|
-| `deeplake`           | `3.9.18 (with Pillow)`                       |
-| `openai`             | `1.40.3'                                      |
-| `transformers`       | `4.41.2`                                     |
-| `numpy`              | `>=1.24.1'                                   |
-| `deepspeed`          | `0.10.1`                                     |
+
+| Modules          | Version                             |
+|------------------|-------------------------------------|
+| `deeplake`       | `3.9.18 (with Pillow)`              |
+| `openai`         | `1.40.3`                            |
+| `transformers`   | `4.41.2`                            |
+| `numpy`          | `>=1.24.1`                          |
+| `deepspeed`      | `0.10.1`                            |
 
 **Note:** This GitHub repository will be continually maintained and updated as the platforms evolve. As such, the versions will evolve in time in this repo so that you will always have access to state-of-art programs!
 
