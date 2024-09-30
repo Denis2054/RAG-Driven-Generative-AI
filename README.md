@@ -59,7 +59,7 @@ You can run the notebooks directly from the table below:
 | | | | | |
 **Part I The RAG Framework**
  **Chapter 1: Why Retrieval Augmented Generation(RAG)?**
-| <ul><li>RAG_Overview.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
+| <ul><li>RAG_Overview.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | 
  **Chapter 2, RAG Embeddings and Vector Stores with Deep Lake and OpenAI**
 | <ul><li>1_Data_collection_preparation.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 | <ul><li>2_Embeddings_vector_store.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/2_Embeddings_vector_store.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/2_Embeddings_vector_store.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
@@ -100,9 +100,17 @@ You can run the notebooks directly from the table below:
 <details open> 
   <summary><h2>Requirements for this book</summary>
 
-  To be filled
-  </details>
-    
+
+You should have basic **Natural Processing Language** (**NLP**) knowledge and some experience with Python. Additionally, most of the programs in this book are provided as Jupyter notebooks. To run them, all you need is a free Google Gmail account, allowing you to execute the notebooks on Google Colaboratory’s free **virtual machine** (**VM**). You will also need to generate API tokens for OpenAI, Activeloop, and Pinecone.
+You might require to download modules while running the notebooks or you can simply run the ``requirements_01.txt`` file in the ``env`` you create.
+Some of the modules are as follows:
+| Modules              | Version                                      |
+|----------------------|----------------------------------------------|
+| `deeplake`           | `3.9.18 (with Pillow)`                       |
+| `openai`             | `1.40.3 (requires regular upgrades)`        |
+| `transformers`       | `4.41.2`                                    |
+| `numpy`              | `>=1.24.1 (Upgraded to satisfy chex)`      |
+| `deepspeed`          | `0.10.1`                                    |
 
 
 <details> 
