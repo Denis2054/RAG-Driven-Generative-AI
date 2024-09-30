@@ -1,6 +1,6 @@
 # Changelog
 
-All notable updates to RAG-Driven Generative repo.
+This changelog contains the notable updates to the **RAG-Driven Generative AI** repo.
 
 ## [September 30, 2024]
 Defining the structure of the changelog
