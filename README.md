@@ -3,8 +3,9 @@ RAG-driven Generative AI, First Edition</h1>
 
 <p align="center">Last updated: September 26, 2024</p>
 
-<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/machine-learning-and-generative-ai-for-marketing-first-edition/9781835889404"> RAG Driven GenAI, First Edition (Link needs to be updated)</a>, published by Packt.
+<p align="center">This is the code repository for <a href ="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918"> RAG Driven GenAI, First Edition</a>, published by Packt.
 </p>
+
 
 <h2 align="center">
 Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone
