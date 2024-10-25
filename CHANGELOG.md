@@ -7,10 +7,14 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 ## [October 25, 2024]
 
 ### Fixed
-Fixed attribute error in the 
+Fixed attribute error the class RetrievalComponent: of the Modular RAG section in RAG_Overview.ipynb(Chapter 1)
 
-### Performance Improvements.
-- Optimized code 
+self.documents is now initialized in the fit method to hold the records used for searching and enable the keyword_search function to access them without error.
+
+  def fit(self, records):
+      **self.documents = records**  # Initialize self.documents here
+      if self.method == 'vector' or self.method == 'indexed':
+        self.tfidf_matrix = self.vectorizer.fit_transform(records)
 
 
 
