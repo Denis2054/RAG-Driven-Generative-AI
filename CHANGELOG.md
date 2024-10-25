@@ -1,6 +1,6 @@
 # Changelog
 
-This changelog contains the notable updates to the **RAG-Driven Generative AI** repo.
+This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.
 
 
 
