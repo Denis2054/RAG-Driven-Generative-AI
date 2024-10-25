@@ -1,11 +1,17 @@
 <h1 align="center">
 RAG-driven Generative AI, First Edition</h1>
-    
-<p align="center">Last updated: October 9, 2024</p>
 
 <p align="center">
     This is the code repository for <a href ="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918"> RAG Driven GenAI, First Edition</a>, published by Packt.
 </p>
+    
+<p align="center">Last updated: October 25, 2024.</p>
+
+<p align="center">
+  See the <a href="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/CHANGELOG.md">CHANGELOG.md</a> for details.
+</p>
+
+
 
 
 <h2 align="center">
