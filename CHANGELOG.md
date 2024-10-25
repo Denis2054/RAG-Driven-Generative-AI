@@ -7,7 +7,7 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 ## [October 25, 2024]
 
 ### Fixed
-Fixed attribute error the `class RetrievalComponent`: of the Modular RAG section in `RAG_Overview.ipynb`(Chapter 1)
+Fixed attribute error the `class RetrievalComponent`: of the *Modular RAG* section in *RAG_Overview.ipynb in Chapter 1*
 
 `self.documents` is now initialized in the fit method to hold the records used for searching and enable the keyword_search function to access them without error.   
 
