@@ -8,7 +8,7 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 
 ### Added Vector search explanation**
 
-As explained in the book:
+As explained in the book:    
 **vector_search**: Searches through each document and calculates similarity. 
 **indexed_search**: Uses a precomputed index (TF-IDF matrix in this case) to compute cosine similarities.
 
