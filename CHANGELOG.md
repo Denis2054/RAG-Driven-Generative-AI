@@ -9,8 +9,9 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 ### Added Vector search explanation
 
 As explained in the book:    
-**vector_search**: Searches through each document and calculates similarity.     
-**indexed_search**: Uses a precomputed index (TF-IDF matrix in this case) to compute cosine similarities.
+**keyword search**: Searches for keywords in a corpus of documents to rank them.
+**vector search**: Searches through each document and calculates the similarity to select the best one.     
+**indexed search**: Uses a precomputed index (TF-IDF matrix in this case) to compute cosine similarities.
 
 The code of the `class RetrievalComponent` in the Modular RAG section in `Chapter01/RAG_Overview.ipynb` in Chapter 1. has been modified to make the vector search function more educational.
 
