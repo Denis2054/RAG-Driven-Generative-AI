@@ -6,7 +6,7 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 
 ## [October 30, 2024]
 
-### Added Vector search explanation**
+### Added Vector search explanation
 
 As explained in the book:    
 **vector_search**: Searches through each document and calculates similarity.     
