@@ -22,7 +22,7 @@ In any case, the goal of this notebook remains to understand the different metho
 
 
 ### Fixed
-Fixed attribute error in the `class RetrievalComponent`: of the *Modular RAG* section in *RAG_Overview.ipynb in Chapter 1.*
+Fixed attribute error in the `class RetrievalComponent`: of the *Modular RAG* section in *Chapter01/RAG_Overview.ipynb in Chapter 1.*
 
 `self.documents` is now initialized in the fit method to hold the records used for searching and enable the `keyword_search` function to access them without error.   
 
