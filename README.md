@@ -5,7 +5,7 @@ RAG-driven Generative AI, First Edition</h1>
     This is the code repository for <a href ="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918"> RAG Driven GenAI, First Edition</a>, published by Packt.
 </p>
     
-<p align="center">Last updated: October 30, 2024.</p>
+<p align="center">Last updated: October 31, 2024.</p>
 
 <p align="center">
   See the <a href="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/CHANGELOG.md">CHANGELOG.md</a> for details.
@@ -70,7 +70,7 @@ You can run the notebooks directly from the table below:
 | | | | | |
 **Part I The RAG Framework**
  **Chapter 1: Why Retrieval Augmented Generation(RAG)?**
-| <ul><li>RAG_Overview.ipynb (See October 30,2024 entry in <a href="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/CHANGELOG.md">CHANGELOG.md</a> for more details)</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | 
+| <ul><li>RAG_Overview.ipynb</a> for more details)</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter01/RAG_Overview.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> | 
  **Chapter 2, RAG Embeddings and Vector Stores with Deep Lake and OpenAI**
 | <ul><li>1_Data_collection_preparation.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 | <ul><li>2_Embeddings_vector_store.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/2_Embeddings_vector_store.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/2_Embeddings_vector_store.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
