@@ -61,6 +61,7 @@ You'll be exposed to a hands-on blend of frameworks like LlamaIndex and Deep Lak
 
 **This repo is continually updated and upgraded.**    
 📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md).    
+🐬 Look for 🐬 to explore *new bonus notebooks* and logged in the [Changelog](./CHANGELOG.md). 
 🚩If you see anything that doesn't run as expected, raise an issue, and we'll work on it!      
 
 ### Platforms
@@ -75,6 +76,8 @@ You can run the notebooks directly from the table below:
 | <ul><li>1_Data_collection_preparation.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/1_Data_collection_preparation.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 | <ul><li>2_Embeddings_vector_store.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/2_Embeddings_vector_store.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/2_Embeddings_vector_store.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
 | <ul><li>3_Augmented_Generation.ipynb</li> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/3_Augmented_Generation.ipynb)  | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter02/3_Augmented_Generation.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
+**RAG with OpenAI Reasoning models: the o1-preview API**
+| <ul><li>🐬3_Augmented_Generation_o1_preview.ipynb</li></ul>| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/3_Augmented_Generation_o1_preview.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/Denis2054/Transformers-for-NLP-and-Computer-Vision-3rd-Edition/blob/main/Chapter07/3_Augmented_Generation_o1_preview.ipynb) |	
  **Chapter 3, Building Index-based RAG with LlamaIndex, Deep Lake, and OpenAI**
 | <ul><li>Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter03/Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb) | <a href="https://www.kaggle.com/kernels/welcome?src=https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/Chapter03/Deep_Lake_LlamaIndex_OpenAI_RAG.ipynb"><img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"></a><br> |
  **Chapter 4, Multimodal Modular RAG for Drone Technology**
