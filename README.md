@@ -5,7 +5,7 @@ RAG-driven Generative AI, First Edition</h1>
     This is the code repository for <a href ="https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918"> RAG Driven GenAI, First Edition</a>, published by Packt.
 </p>
     
-<p align="center">Last updated: October 31, 2024.</p>
+<p align="center">Last updated: November 1, 2024.</p>
 
 <p align="center">
   See the <a href="https://github.com/Denis2054/RAG-Driven-Generative-AI/blob/main/CHANGELOG.md">CHANGELOG.md</a> for details.
@@ -61,7 +61,7 @@ You'll be exposed to a hands-on blend of frameworks like LlamaIndex and Deep Lak
 
 **This repo is continually updated and upgraded.**    
 📝 For details on updates and improvements, see the [Changelog](./CHANGELOG.md).    
-🐬 To explore *new bonus notebooks* and logged in the [Changelog](./CHANGELOG.md).     
+🐬 *New bonus notebooks* to explore, see [Changelog](./CHANGELOG.md).     
 🚩 If you see anything that doesn't run as expected, raise an issue, and we'll work on it!      
 
 ### Platforms
