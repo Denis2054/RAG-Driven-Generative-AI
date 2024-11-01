@@ -1,6 +1,15 @@
 # Changelog
 
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.
+🐬 Indicates *new bonus notebooks* to explore
+
+## [November 1, 2024]
+
+### New bonus notebook
+
+OpenAI Reasoning Models such as o1-preview can be used for RAG-Driven Generative AI in the ecosystem in Chapter 2.
+
+🐬`Chapter02/3_Augmented_Generation_o1_preview.ipynb` 
 
 ## [October 25, 2024]
 
