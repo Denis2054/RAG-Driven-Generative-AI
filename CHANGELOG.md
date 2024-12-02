@@ -3,6 +3,12 @@
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.   
 🐬 Indicates *new bonus notebooks* to explore.
 
+## [December 2,2024]
+
+### Code optimization
+
+Chapter01/RAG_Overview.ipynb imported `time`, implemented it once for a start time but the processing time isn't sufficiently significant in this introductory notebook to use time measurements.
+
 ## [November 1, 2024]
 
 ### New bonus notebook
