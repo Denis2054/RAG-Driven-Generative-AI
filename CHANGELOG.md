@@ -3,7 +3,7 @@
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.   
 🐬 Indicates *new bonus notebooks* to explore.
 
-## [December 2,2024]
+## [December 2, 2024]
 
 ### Code optimization
 
