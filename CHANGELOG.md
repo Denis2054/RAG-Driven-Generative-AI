@@ -9,6 +9,10 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 
  `Chapter01/RAG_Overview.ipynb ` imported `time`, implemented it once for a start time but the processing time isn't sufficiently significant in this introductory notebook to use time measurements.
 
+### Code fix
+
+nltk.download('punkt_tab')
+
 ## [November 1, 2024]
 
 ### New bonus notebook
