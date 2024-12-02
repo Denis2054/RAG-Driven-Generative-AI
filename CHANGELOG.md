@@ -11,7 +11,7 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 
 ### Code fix
 
-nltk.download('punkt_tab')
+`nltk.download('punkt_tab')` added to `Chapter07/Wikipedia_API.ipynb`
 
 ## [November 1, 2024]
 
