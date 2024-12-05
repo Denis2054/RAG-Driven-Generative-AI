@@ -3,6 +3,13 @@
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.   
 🐬 Indicates *new bonus notebooks* to explore.
 
+## [December 5,2024]
+
+### 🐬xAI grok-beta bonus notebook
+
+Implementing grok-beta to introduce RAG techniques:
+`Chapter01/RAG_Overview_Grok.ipynb`
+
 ## [December 2, 2024]
 
 ### Code optimization
