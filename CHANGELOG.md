@@ -3,6 +3,15 @@
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.   
 🐬 Indicates *new bonus notebooks* to explore.
 
+## [February 2,2025]
+
+### 🐬OpenAI o3 bonus notebook
+
+Implementing OpenAI o3 to run a RAG task:
+`3_Augmented_Generation_o3.ipynb`
+
+Deployed with openai==1.61.0
+
 ## [December 5,2024]
 
 ### 🐬xAI grok-beta bonus notebook
