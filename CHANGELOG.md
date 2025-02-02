@@ -10,6 +10,8 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 Implementing OpenAI o3 to run a RAG task:
 `3_Augmented_Generation_o3.ipynb`
 
+The `o3` was made using the standard GPT-4o structure.
+
 Deployed with openai==1.61.0
 
 ## [December 5,2024]
