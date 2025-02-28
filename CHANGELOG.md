@@ -3,6 +3,13 @@
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.   
 🐬 Indicates *new bonus notebooks* to explore.
 
+## [February 28,2025]
+
+### 🐬OpenAI GPT-4.5-preview bonus notebook
+
+Implementing OpenAI GPT-4.5-preview to run a RAG task:
+`3_Augmented_Generation_GPT_4-5.ipynb`
+
 ## [February 2,2025]
 
 ### 🐬OpenAI o3 bonus notebook
