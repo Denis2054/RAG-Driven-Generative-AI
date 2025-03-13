@@ -3,14 +3,23 @@
 This changelog contains the notable updates to the **RAG-Driven Generative AI** repository.   
 🐬 Indicates *new bonus notebooks* to explore.
 
-## [February 28,2025]
+
+## [March 12, 2025]
+After having explored GPT-4.5, explanations by GPT-4.5 added to
+Chapter02/3_Augmented_Generation_GPT_4-5.ipynb
+as to why to use GPT-4.5.
+
+Noe: Check the costs and necessity of using any model before implementing it. Innovation is cool but
+budget sustainability and user needs don't always require the latest models.
+
+## [February 28, 2025]
 
 ### 🐬OpenAI GPT-4.5-preview bonus notebook
 
 Implementing OpenAI GPT-4.5-preview to run a RAG task:
 `3_Augmented_Generation_GPT_4-5.ipynb`
 
-## [February 2,2025]
+## [February 2, 2025]
 
 ### 🐬OpenAI o3 bonus notebook
 
@@ -21,7 +30,7 @@ The `o3` was made using the standard GPT-4o structure.
 
 Deployed with openai==1.61.0
 
-## [December 5,2024]
+## [December 5, 2024]
 
 ### 🐬xAI grok-beta bonus notebook
 
@@ -32,7 +41,7 @@ Implementing grok-beta to introduce RAG techniques:
 
 ### Code optimization
 
- `Chapter01/RAG_Overview.ipynb ` : removed `import time` because it is not necessary in this notebook.
+ `Chapter01/RAG_Overview.ipynb `: removed `import time` because it is not necessary in this notebook.
 
 ### Code fix
 
