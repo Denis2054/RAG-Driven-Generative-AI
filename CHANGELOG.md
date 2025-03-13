@@ -6,7 +6,7 @@ This changelog contains the notable updates to the **RAG-Driven Generative AI** 
 
 ## [March 12, 2025]
 After having explored GPT-4.5, explanations by GPT-4.5 added to
-Chapter02/3_Augmented_Generation_GPT_4-5.ipynb
+`Chapter02/3_Augmented_Generation_GPT_4-5.ipynb`
 as to why to use GPT-4.5.
 
 Noe: Check the costs and necessity of using any model before implementing it. Innovation is cool but
